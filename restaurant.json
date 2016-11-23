@@ -1,0 +1,2927 @@
+{
+    "athens": [{
+        "restaurant": "17",
+        "address": "ΛΥΚΑΒΗΤΟΥ 2",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "Ε/Γ ΤΑΞΙΔΕΥΟΝΤΑΣ",
+        "address": "ΠΛΑΤΩΝΟΣ 72",
+        "area": "ΚΕΡΑΤΣΙΝΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΡΙΖΟΝΤΕΣ",
+        "address": "ΛΟΦΟΣ ΛΥΚΑΒΗΤΤΟΥ",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ACHE",
+        "address": "ΚΥΠΡΟΥ 57",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "AL PINO",
+        "address": "ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ 4",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ALEGRIA",
+        "address": "ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 57",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "AZTEK",
+        "address": "ΧΑΡ. ΤΡΙΚΟΥΠΗ 156",
+        "area": "ΝΕΑ ΕΡΥΘΡΑΙA",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "BAR.B.Q",
+        "address": "ΕΛ. ΒΕΝΙΖΕΛΟΥ 46",
+        "area": "ΝΕΑ ΣΜΥΡΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BARAONDA",
+        "address": "ΤΣΟΧΑ 43",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "BIERFASS MUNICH",
+        "address": "ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ 5",
+        "area": "ΓΕΡΑΚΑΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "BLACK DUCK",
+        "address": "ΧΡΗΣΤΟΥ ΛΑΔΑ 9Α",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "BRASSERIE SUD",
+        "address": "ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "BROTHEL",
+        "address": "ΔΕΚΕΛΕΩΝ & ΟΡΦΕΩΣ 33",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "CALLIRHOE RESTAURANT",
+        "address": "ΚΑΛΛΙΡΟΗΣ & ΠΕΤΜΕΖΑ 15",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "CANTEEN",
+        "address": "ΕΥΜΟΛΠΙΔΩΝ & ΙΑΚΧΟΥ 8",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CASUS CENI (DA VINCI)",
+        "address": "ΑΓΙΟΥ ΙΩΑΝΝΟΥ 23",
+        "area": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "CIBUS",
+        "address": "ΚΗΠΟΣ ΖΑΠΠΕΙΟΥ",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "CROSS",
+        "address": "ΠΑΠΑΔΙΑΜΑΝΤΟΠΟΥΛΟΥ 24 Β",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "CUCINA POVERA",
+        "address": "ΕΥΦΟΡΙΩΝΟΣ 13",
+        "area": "Αθήνα",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "CUTTY SARK",
+        "address": "ΣΤΡΑΤΑΡΧΟΥ ΚΑΡΑΙΣΚΑΚΗ 55",
+        "area": "ΧΑΙΔΑΡΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DIVANI ACROPOLI - ASPASIA",
+        "address": "ΠΑΡΘΕΝΩΝΟΣ 19-25",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DIVANI ACROPOLI - ROOF GARDEN",
+        "address": "ΠΑΡΘΕΝΩΝΟΣ 19-25 ,",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DIVANI ATLANTIS RESTAURANT",
+        "address": "ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ 10",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DIVANI ΠΕΛΑΓΟΣ BAR",
+        "address": "ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ 10",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DIVANI-ΜΥΘΟΣ",
+        "address": "ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ 10",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ELEFSINA HOTEL / ΤΟ ΣΤΑΧΥ RESTAURANT",
+        "address": "ΔΗΜΗΤΡΟΣ & Ρ. ΦΕΡΑΙΟΥ",
+        "area": "ΕΛΕΥΣΙΝΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "FAR EAST",
+        "address": "ΣΤΑΔΙΟΥ 7",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "FEEL GOOD",
+        "address": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 27",
+        "area": "ΑΙΓΑΛΕΩ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "FRAME",
+        "address": "ΚΛΕΟΜΕΝΟΥΣ 2",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "FRESH AIR LOUNGE",
+        "address": "ΣΟΦΟΚΛΕΟΥΣ 26",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "GRAND  BRETAGNE  ALEXANDER  CAFE  BAR",
+        "address": "ΒΑΣ.ΓΕΩΡΓΙΟΥ Α' 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "GRAND  BRETAGNE  G.B. CORNER",
+        "address": "ΒΑΣ. ΓΕΩΡΓΙΟΥ Α' 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "GRAND  BRETAGNE  WINDER  GARDEN",
+        "address": "ΒΑΣ. ΓΕΩΡΓΙΟΥ Α' 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "GRAND BRETAGNE  G.B. ROOF",
+        "address": "ΒΑΣ. ΓΕΩΡΓΙΟΥ Α' 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "HILTON ROOF",
+        "address": "ΛΕΩΦ. ΒΑΣ. ΣΟΦΙΑΣ 46",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "HILTON ΒΥΖΑΝΤΙΝΟ",
+        "address": "ΛΕΩΦ. ΒΑΣ. ΣΟΦΙΑΣ 46",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "INTERCONTINENTAL PremierRest",
+        "address": "ΛΕΩΦ. ΣΥΓΓΡΟΥ 89-93",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "JACKSON HALL",
+        "address": "ΜΗΛΙΩΝΗ 4",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "JAIPUR PALACE",
+        "address": "ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ & ΘΕΜΙΔΟΣ 73",
+        "area": "ΜΑΡΟΥΣΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "JAIPUR PALACE",
+        "address": "ΛΑΖΑΡΑΚΗ 63",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΑΓΙΟΥ ΑΛΕΞΑΝΔΡΟΥ 7",
+        "area": " ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΑΓΙΟΥ ΙΩΑΝΝΟΥ 19",
+        "area": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΘΗΒΩΝ 228",
+        "address": "ΑΓ.ΙΩΑΝΝΗΣ",
+        "area": "ΡΕΝΤΗΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "Κ. ΠΑΛΑΙΟΛΟΓΟΥ 15",
+        "area": "ΝΕΑ ΣΜΥΡΝΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΚΑΣΣΑΒΕΤΗ 9",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΚΩΝ/ΠΟΛΕΩΣ & ΧΑΡ.ΤΡΙΚΟΥΠΗ",
+        "area": "ΠΕΡΙΣΤΕΡΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΛΕΩΦ. ΠΕΝΤΕΛΗΣ 73",
+        "area": "ΧΑΛΑΝΔΡΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "Μ. ΓΕΡΟΥΛΑΝΟΥ 58",
+        "area": "ΑΡΓΥΡΟΥΠΟΛΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΠΛ. ΚΑΤΡΑΚΗ 6",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΤΣΑΚΑΛΩΦ 18",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA ΑΛΕΞΑΝΔΡΑΣ",
+        "address": "Λ. ΑΛΕΞΑΝΔΡΑΣ 213",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA PASTERIA ΠΑΤΗΣΙΑ",
+        "address": "ΛΕΩΦ. ΑΧΑΡΩΝ 309 & ΣΤΡΑΤΗΓΟΥ ΚΑΛΑΡΗ",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LALU",
+        "address": "ΑΝΑΓΝΩΣΤΟΠΟΥΛΟΥ 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "LAUTREC",
+        "address": "ΥΨΗΛΑΝΤΟΥ 167",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LE PETIT SOMMELIER",
+        "address": "ΖΑΪMH 6",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LEDRA MARRIOTT Zephyros Rest",
+        "address": "ΛΕΩΦ. ΣΥΓΓΡΟΥ 113-115",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "LIFE GALLERY RESTAURANT",
+        "address": "ΘΗΣΕΩΣ 103",
+        "area": "ΕΚΑΛΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LUNA ROSSA",
+        "address": "ΣΩΚΡΑΤΟΥΣ 213",
+        "area": "ΚΑΛΛΙΘΕΑ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "LYCABETOUS GRAND BALCON",
+        "address": "ΚΛΕΟΜΕΝΟΥΣ 2",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "MATADOR",
+        "address": "ΠΡΑΞΙΤΕΛΟΥΣ 165",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MEAT SQUARE",
+        "address": "Γ. ΛΑΜΠΡΑΚΗ 63",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "MINIM΄S",
+        "address": "ΜΙΑΟΥΛΗ 6",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "MOLI CAFE",
+        "address": "ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 56",
+        "area": "ΑΜΠΕΛΟΚΗΠΟΙ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "NARGILE",
+        "address": "ΔΗΛΗΓΙΑΝΝΗ & ΧΑΡ. ΤΡΙΚΟΥΠΗ 50",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "NS SQUARE",
+        "address": "25ης ΜΑΡΤΙΟΥ 19",
+        "area": "ΝΕΑ ΣΜΥΡΝΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "PASAJI",
+        "address": "ΒΟΥΚ/ΤΙΟΥ-ΠΑΝ/ΜΙΟΥ ΣΤΟΑ ΣΠΥΡΟΜΗΛΙΟΥ",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "PATRON",
+        "address": "Γ. ΠΕΡΙΚΛΕΟΥΣ 13 & Λ. Δ. ΒΑΣΙΛΕΙΟΥ 10",
+        "area": "ΨΥΧΙΚΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PAUSA",
+        "address": "ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ & ΗΦΑΙΣΤΟΥ 3",
+        "area": "ΜΑΡΟΥΣΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "PENTELIKON  LA  TERRASSE",
+        "address": "Θ.ΔΗΛΗΓΙΑΝΝΗ 66",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "PENTELIKON  VARDIS",
+        "address": "Θ.ΔΗΛΗΓΙΑΝΝΗ 66",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "PERE UBU",
+        "address": "ΚΥΠΡΟΥ 74",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "PIAZZA MELA",
+        "address": "ΛΕΩΦ. ΚΗΦΙΣΙΑΣ 238",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PRUNIER",
+        "address": "ΥΨΗΛΑΝΤΟΥ 63",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PULITZER",
+        "address": "ΒΕΝΤΗΡΗ 5",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "PUTUMAYO WORLD CAFE",
+        "address": "ΚΩΝ. ΠΑΛΑΙΟΛΟΓΟΥ 17",
+        "area": "ΝΕΑ ΣΜΥΡΝΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ROYAL OLYMPIC ROOF GARDEN",
+        "address": "ΑΘ. ΔΙΑΚΟΥ 28-34",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SALE & PEPE",
+        "address": "ΑΡΙΣΤΙΠΠΟΥ 34",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SALERO",
+        "address": "ΒΑΛΤΕΤΣΙΟΥ 51",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "SCALA",
+        "address": "ΣΙΝΑ 50 & ΑΝΑΓΝΩΣΤΟΠΟΥΛΟΥ",
+        "area": "Αθήνα",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "SEMIRAMIS",
+        "address": "ΧΑΡ. ΤΡΙΚΟΥΠΗ (SEMIRAMIS) 48",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SOTTO VOCE",
+        "address": "ΒΑΣ. ΓΕΩΡΓΙΟΥ 6",
+        "area": "ΧΑΛΑΝΔΡΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "STANLEY VIRTUS RESTAURANT",
+        "address": "ΟΔΥΣΣΕΩΣ 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "STANLEY ΙΚΑΡΟΣ RESTAURANT",
+        "address": "ΟΔΥΣΣΕΩΣ 1",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "TAMAM",
+        "address": "ΒΡΙΛΗΣΣΟΥ 30",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "TEN",
+        "address": "ΠΛΟΥΤΑΡΧΟΥ 10",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "TIKE",
+        "address": "ΚΡΗΤΗΣ 27",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "TITANIA BRASSERIE RESTAURANT",
+        "address": "ΠΑΝΕΠΙΣΤΗΜΙΟΥ 52",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "TITANIA OLIVE GARDEN RESTAURANT",
+        "address": "ΠΑΝΕΠΙΣΤΗΜΙΟΥ 52",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "VS RESTAURANT",
+        "address": "ΧΛΟΗΣ & ΠΑΝΟΣ 8",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "WHISPERS OF WINE",
+        "address": "ΑΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ 48",
+        "area": "ΜΑΡΟΥΣΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ZINC",
+        "address": "ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ZONAR'S",
+        "address": "ΒΟΥΚΟΥΡΕΣΤΙΟΥ-ΠΑΝΕΠΙΣΤΗΜΙΟΥ",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΑΓΟΡΑ",
+        "address": "ΒΟΥΡΝΑΖΟΥ 31",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΓΟΡΑ",
+        "address": "Χ. ΜΕΞΗ & ΒΕΝΤΗΡΗ 9",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΘΗΡΙ",
+        "address": "ΠΛΑΤΑΙΩΝ 15",
+        "area": "Αθήνα",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΚΡΩΤΗΡΙ",
+        "address": "ΒΑΣ. ΓΕΩΡΓΙΟΥ Β5",
+        "area": "ΕΛΛΗΝΙΚΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΛΜΥΡΑ",
+        "address": "ΦΙΛ. ΕΤΑΙΡΕΙΑΣ 39",
+        "area": "ΧΑΛΑΝΔΡΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΜΠΑΡΙΖΑ",
+        "address": "ΛΕΚΚΑ 14",
+        "area": "Αθήνα",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΣΤΕΡΙΑ-MESSIAH",
+        "address": "ΑΚΤΗ ΑΣΤΕΡΟΣ",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΑΣΤΕΡΙΑΣ",
+        "address": "ΣΚΟΥΦΑ 43",
+        "area": "ΝΕΑ ΕΡΥΘΡΑΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΑΣΤΗΡ BLUE HYTRA",
+        "address": "ΛΑΙΜΟΣ ΒΟΥΛΙΑΓΜΕΝΗΣ",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΒΑΡΟΥΛΚΟ",
+        "address": "ΠΕΙΡΑΙΩΣ 80",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΒΑΣΙΛΑΙΝΑΣ",
+        "address": "ΑΙΤΩΛΙΚΟΥ 72",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΒΟΡΙ",
+        "address": "ΚΑΝΘΑΡΟΥ 1 & ΑΚΤΗ ΜΙΑΟΥΛΗ 75",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΒΡΕΤΟΣ",
+        "address": "ΚΥΔΑθήναΙΩΝ 41",
+        "area": "Αθήνα",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΓΙΟΡΤΗ",
+        "address": "ΤΕΡΜΑ ΙΕΡΑΣ ΟΔΟΥ",
+        "area": "  ΧΑΙΔΑΡΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΔΕΛΦΙΝΙΑ",
+        "address": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 56",
+        "area": "ΔΑΦΝΗ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΕΙΣ ΤΟ ΕΠΑΝΙΔΕΙΝ",
+        "address": "ΛΥΚΟΒΡΥΣΕΩΣ 8",
+        "area": "ΛΥΚΟΒΡΥΣΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΕΛΙΑ & ΛΑΔΙ",
+        "address": "ΚΤΙΡΙΟ 42-ΔΙΕΘΝΗΣ ΑΕΡΟΛΙΜΕΝΑΣ ΑΘΗΝ.",
+        "area": "ΣΠΑΤΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΕΛΙΑ",
+        "address": "ΜΥΛΟΠΟΤΑΜΟΥ 28",
+        "area": "Αθήνα",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΕΝ ΠΛΩ",
+        "address": "ΠΟΣΕΙΔΩΝΟΣ 4",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΕΠΟΨΙΣ",
+        "address": "ΛΟΦΟΣ ΠΡΟΦΗΤΗ ΗΛΙΑ",
+        "area": "ΧΑΙΔΑΡΙ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΕΥ ΚΟΥ ΖΗΝ",
+        "address": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 22 Σ",
+        "area": "ΝΕΑ ΠΕΡΑΜΟ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Η ΡΕΜΒΗ",
+        "address": "ΛΕΩΦ. ΣΟΥΝΙΟΥ 14",
+        "area": "ΑΝΑΒΥΣΣΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΗΛΕΚΤΡΑ-ELECTRA  RESTAURANT",
+        "address": "ΝΑΥΑΡΧΟΥ ΝΙΚΟΔΗΜΟΥ 18",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΙΒΙΛΑΪ",
+        "address": "ΚΥΠΡΟΥ & ΚΟΛΟΚΟΤΡΩΝΗ 1",
+        "area": "ΝΕΑ ΕΡΥΘΡΑΙΑ",
+        "wine": "Σάμος Doux (ΚΙΒ 12 Φ)"
+    }, {
+        "restaurant": "ΙΘΑΚΗ",
+        "address": "ΑΠΟΛΛΩΝΟΣ 28",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΙΩΑΚΕΙΜ",
+        "address": "ΛΙΜΑΝΙ",
+        "area": "ΡΑΦΗΝΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΚΑΛΛΙΣΤΗ ΓΕΥΣΙΣ",
+        "address": "ΑΣΚΛΗΠΙΟΥ 137",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΑΛΝΤΕΡΑ",
+        "address": "ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ 54",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΚΟΥΖΙΝΑ",
+        "address": "ΑΔΡΙΑΝΟΥ 9",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΡΥΣΤΑΛΛΗΣ",
+        "address": "ΠΛΑΤΕΙΑ ΑΓΙΑΣ ΤΡΙΑΔΟΣ 1",
+        "area": "ΠΕΝΤΕΛΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΥΚΛΑΔΙΤΙΚΟ",
+        "address": "ΛΕΩΦ. ΣΟΥΝΙΟΥ 4",
+        "area": "ΑΝΑΒΥΣΣΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΛΕΜΟΝΟΚΗΠΟΣ",
+        "address": "ΑΓ. ΤΡΙΑΔΟΣ 11",
+        "area": "ΝΕΑ ΦΙΛΑΔΕΛΦΕΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΛΗΚΥΘΟΣ CAFE",
+        "address": "ΓΡΗΓ. ΑΥΞΕΝΤΙΟΥ 2",
+        "area": "ΠΕΤΡΟΥΠΟΛΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΑΝΗ ΜΑΝΗ",
+        "address": "ΦΑΛΗΡΟΥ 10",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΜΑΝΟΣ",
+        "address": "ΣΙΔΕΡΗ ΜΠΕΗ 3",
+        "area": "ΑΝΑΒΥΣΣΟΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΜΕΘΥΣΤΑNEΣ",
+        "address": "ΩΓΥΓΟΥ & ΛΕΠΕΝΙΩΤΟΥ 26",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΕΣΠΙΛΕΑ",
+        "address": "ΠΕΡΣΕΦΟΝΗΣ 59",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΜΗΛΟΝ ΤΗΣ ΕΡΙΔΟΣ",
+        "address": "ΚΟΡΑΗ 18",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΟΝΕΜΒΑΣΙΑ",
+        "address": "ΙΛΙΣΣΙΩΝ 13",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΠΑΡΜΠΑ ΛΑΖΑΡΟΣ",
+        "address": "ΖΗΣΙΜΟΠΟΥΛΟΥ 24Α",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Golden Samena37.5"
+    }, {
+        "restaurant": "ΝΗΣΙΩΤΙΣΣΑ",
+        "address": "ΛΕΩΦ. ΠΕΝΤΕΛΗΣ 150",
+        "area": "ΒΡΙΛΗΣΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "Ο ΤΖΙΤΖΙΚΑΣ ΚΙ Ο ΜΕΡΜΗΓΚΑΣ",
+        "address": "ΑΙΣΧΥΛΟΥ 26",
+        "area": "ΧΑΛΑΝΔΡΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Ο ΤΖΙΤΖΙΚΑΣ ΚΙ Ο ΜΕΡΜΗΓΚΑΣ",
+        "address": "ΔΡΟΣΙΝΗ 12-14",
+        "area": " ΚΗΦΙΣΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Ο ΤΖΙΤΖΙΚΑΣ ΚΙ Ο ΜΕΡΜΗΓΚΑΣ",
+        "address": "ΜΗΤΡΟΠΟΛΕΩΣ 12-14",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Ο ΤΖΙΤΖΙΚΑΣ ΚΙ Ο ΜΕΡΜΗΓΚΑΣ",
+        "address": "ΠΛΑΤΕΙΑ ΠΑΠΑΔΙΑΜΑΝΤΗ 4",
+        "area": "ΠΑΤΗΣΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Ο ΨΑΡΑΣ",
+        "address": "ΕΛΑΙΩΝ 54",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΙ ΛΕΥΚΕΣ",
+        "address": "Λ. ΓΑΛΑΤΣΙΟΥ 100",
+        "area": "ΓΑΛΑΤΣΙ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΟΜΙΚΡΟΝ",
+        "address": "ΔΡΟΣΟΥ & ΑΙΓΛΗΣ",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΟΞΥΓΟΝΟ LIVE",
+        "address": "ΚΟΡΥΖΗ 4",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΑΛΙΑ ΑΓΟΡΑ",
+        "address": "Μ. ΡΕΝΙΕΡΗ & ΚΕΧΑΓΙΑ 26",
+        "area": "ΦΙΛΟΘΕΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΠΑΝΩ ΚΑΤΩ",
+        "address": "ΛΥΚΑΒΗΤΟΥ 14",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΑΡΑΔΟΣΙΑΚΟ ΚΑΦΕΝΕΙΟ",
+        "address": "Γ. ΣΧΙΝΑ 76",
+        "area": " ΜΕΓΑΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΑΡΚΟ",
+        "address": "ΠΑΡΚΟ ΕΛΕΥΘΕΡΙΑΣ",
+        "area": " Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΙΛ ΠΟΥΛ",
+        "address": "ΑΠ. ΠΑΥΛΟΥ 51",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΠΛΑΚΑ",
+        "address": "ΚΥΔΑθήναΙΩΝ 16",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΟΡΤΟ ΚΑΓΙΟ",
+        "address": "ΓΑΡΥΤΤΟΥ 112",
+        "area": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΡΕΜΕΤΖΟ",
+        "address": "ΑΡΧ. ΘΕΑΤΡΟΥ 42",
+        "area": "ΕΡΕΤΡΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΠΙΤΑΚΙΑ",
+        "address": "ΔΕΚΕΛΕΩΝ & ΖΑΓΡΕΟΣ 17",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΠΟΝΔΗ",
+        "address": "ΠΥΡΡΩΝΟΣ 5",
+        "area": "ΥΜΗΤΤΟΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΤΑ ΔΕΛΦΙΝΙΑ",
+        "address": "ΔΙΑΔ. ΠΑΥΛΟΥ 5",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΤΑΚΗΣ",
+        "address": "25ης ΜΑΡΤΙΟΥ 7",
+        "area": "ΠΕΡΑΜΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΖΟΥΓΚΡΙ",
+        "address": "ΘΟΥΚΥΔΙΔΟΥ 53-55",
+        "area": "ΑΛΙΜΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΟ ΖΟΥΜΠΕΡΙ",
+        "address": "ΖΟΥΜΠΕΡΙ",
+        "area": "ΝΕΑ ΜΑΚΡΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΟ ΚΑΦΕ ΤΩΝ ΑΙΣΘΗΣΕΩΝ",
+        "address": "ΚΟΥΝΤΟΥΡΙΩΤΟΥ 164",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΤΟ ΝΗΣΙ",
+        "address": "ΑΚΤΗ ΘΕΜΙΣΤΟΚΛΕΟΥΣ 348",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΟ ΠΑΛΙΟ ΓΡΑΜΜΟΦΩΝΟ",
+        "address": "ΝΑΥΑΡΧΟΥ ΑΠΟΣΤΟΛΗ 8",
+        "area": " Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΧΑΛΑΛΙ",
+        "address": "ΠΙΑΝΑΣ 7",
+        "area": "ΠΕΡΙΣΤΕΡΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΧΥΤΡΑ",
+        "address": "ΝΑΥΑΡΧΟΥ ΑΠΟΣΤΟΛΗ 7",
+        "area": " Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΨΑΡΙΣΤΟΝ",
+        "address": "ΚΑΛΑΒΡΥΤΩΝ 16",
+        "area": "ΝΕΟ ΗΡΑΚΛΕΙΟ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΨΩΜΙ ΚΑΙ ΑΛΑΤΙ",
+        "address": "ΠΛΑΤΕΙΑ ΕΛΕΥΘΕΡΩΤΩΝ 8",
+        "area": "ΧΑΛΑΝΔΡΙ",
+        "wine": "Σάμος Grand Cru<br>Golden Samena<br>Ψηλές Κορφές<br>Σάμος Νέκταρ<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "DUE CAVALIERI",
+        "address": "ΜΑΡΙΝΑ ΦΛΟΙΣΒΟΥ",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΑΝΔΡΕΑ ΠΑΠΑΝΔΡΕΟΥ 35",
+        "area": "ΜΑΡΟΥΣΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΓΑΙΑ",
+        "address": "ΑΚΤΗ ΘΕΜΙΣΤΟΚΛΕΟΥΣ 338-340",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "BEST FRIENDS",
+        "address": "ΠΛ. ΑΡΙΣΤΟΤΕΛΟΥΣ",
+        "area": "ΑΧΑΡΝΕΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΛΙΟΠΕΤΡΟ",
+        "address": "ΜΝΗΣΙΚΛΕΟΥΣ 7Β",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "MAI - TAI GRILL",
+        "address": "ΠΛΟΥΤΑΡΧΟΥ 18",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΗΜΕΙΑ ΚΑΙ ΚΡΕΑΤΑ",
+        "address": "ΕΘΝ. ΜΑΚΑΡΙΟΥ 15",
+        "area": "ΚΑΙΣΑΡΙΑΝΗ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΡΕΣΠΕΝΤΖΑ",
+        "address": "ΕΥΜΟΛΠΙΔΩΝ 24",
+        "area": " Αθήνα",
+        "wine": "Σάμος Άνθεμις<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "INBI",
+        "address": "ΗΡΑΚΛΕΙΤΟΥ 21",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΛΛΟΤΙΝΟ",
+        "address": "ΖΗΣΙΜΟΠΟΥΛΟΥ 47",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "LATINI",
+        "address": "ΛΕΩΦΟΡΟΣ ΠΟΣΕΙΔΩΝΟΣ 10",
+        "area": "ΝΕΑ ΜΑΚΡΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "AL DENTE",
+        "address": "ΘΟΥΚΥΔΙΔΟΥ 19",
+        "area": "ΑΛΙΜΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "PROSOPA",
+        "address": "ΜΕΓΑΛΟΥ ΒΑΣΙΛΕΙΟΥ 52",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "SPIROS & VASILIS",
+        "address": "ΛΑΧΗΤΟΣ 5",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "DA CIRO",
+        "address": "ΚΡΗΝΗΣ 16",
+        "area": "ΝΕΑ ΕΡΥΘΡΑΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "5 ΜΟΥΣΕΣ",
+        "address": "ΛΕΩΦ. ΣΑΛΑΜΙΝΟΣ 278",
+        "area": "ΣΑΛΑΜΙΝΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΜΟΥΣΕΙΟ ΤΗΣ ΑΚΡΟΠΟΛΗΣ",
+        "address": "ΔΙΟΝΥΣΙΟΥ ΑΡΕΟΠΑΓΙΤΟΥ 15 ,",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ELYSEE",
+        "address": "ΤΣΑΚΑΛΩΦ 6",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "Π - BOX",
+        "address": "ΛΕΒΙΔΟΥ 11",
+        "area": " ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Doux<br>Golden Samena"
+    }, {
+        "restaurant": "ΤΑ ΚΟΥΤΑΛΑΚΙΑ",
+        "address": "ΘΕΡΜΟΠΥΛΩΝ 39",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΙΝΙΚΟΛΑΣ",
+        "address": "Λ.ΣΥΓΓΡΟΥ 156",
+        "area": "ΚΑΛΛΙΘΕΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "Ο ΓΙΩΡΓΟΣ",
+        "address": "ΠΑΠΑΓΟΥ 26",
+        "area": "ΒΟΥΛΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΟ ΝΕΡΟ ΤΗΣ ΑΓΑΠΗΣ",
+        "address": "ΚΟΥΝΟΥΠΙΤΣΑ",
+        "area": "ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "UNICORN",
+        "address": "ΦΙΛ. ΕΤΑΙΡΕΙΑΣ 12",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΙΛΙΣΣΟΣ",
+        "address": "ΜΙΧΑΛΑΚΟΠΟΥΛΟΥ 52",
+        "area": "Αθήνα",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΤΟ ΛΙΟΤΡΙΒΙ",
+        "address": "ΠΑΛΙΟ ΛΙΜΑΝΙ ΣΠΕΤΣΩΝ",
+        "area": "ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΜΑΓΕΜΕΝΟΣ ΑΥΛΟΣ",
+        "address": "ΑΜΥΝΤΑ 4",
+        "area": "ΥΜΗΤΤΟΣ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΦΑΝΚΥ ΓΚΟΥΡΜΕ",
+        "address": "ΠΑΡΑΜΥΘΙΑΣ 13 και ΣΑΛΑΜΙΝΟΣ 13",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "NEW DASH",
+        "address": "ΚΟΛΟΚΟΤΡΩΝΗ 8",
+        "area": "ΚΗΦΙΣΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΖΟΡΜΠΑΣ",
+        "address": "ΑΚΤΗ ΚΟΥΜΟΥΝΔΟΥΡΟΥ 14",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΛΑΤΙΝΙ",
+        "address": "ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ 3",
+        "area": "ΒΑΡΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "LA PASTERIA",
+        "address": "ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ 2",
+        "area": "ΝΕΑ ΜΑΚΡΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΔΙΟΣΚΟΥΡΟΙ",
+        "address": "ΔΗΜ. ΒΑΣΙΛΕΙΟΥ 16",
+        "area": "ΨΥΧΙΚΟ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "REMEZZO",
+        "address": "Γ. ΣΕΠΤΕΜΒΡΙΟΥ",
+        "area": "ΓΑΖΙ - ΑΜΜΟΥΔΑΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SOFITEL ΚΑΡΑΒΙ",
+        "address": "ΑΕΡΟΔΡΟΜΙΟ ΕΛ. ΒΕΝΙΖΕΛΟΣ",
+        "area": "ΣΠΑΤΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "1055",
+        "address": "ΚΑΖΙΝΟ ΠΑΡΝΗΘΑΣ",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "PARK ST`ASTRA RESTAURANT",
+        "address": "ΛΕΩΦ. ΑΛΕΞΑΝΔΡΑΣ 10",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "PARK GALLO NERO RESTAURANT",
+        "address": "ΛΕΩΦ. ΑΛΕΞΑΝΔΡΑΣ 10 ,",
+        "area": "Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΟΛΛΙΑΣ",
+        "address": "ΣΤΡ. ΠΛΑΣΤΗΡΑ 3",
+        "area": "ΚΕΡΑΤΣΙΝΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PROSOPA",
+        "address": "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 84",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "OKIO",
+        "address": "ΜΑΡΙΝΑ ΖΕΑΣ",
+        "area": "ΠΕΙΡΑΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΟΥΤΙ",
+        "address": "ΑΔΡΙΑΝΟΥ 23",
+        "area": "Αθήνα",
+        "wine": "Σάμος Doux<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΧΡΥΣΑ",
+        "address": "ΑΡΤΕΜΙΣΙΟΥ 4",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΔΙΟΝΥΣΟΣ",
+        "address": "ΡΟΒΕΡΤΟΥ ΓΚΑΛΙ 43",
+        "area": "Αθήνα",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΕΔΩΔΗ",
+        "address": "ΛΕΩΦ. ΒΕΪΚΟΥ 80",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SALOON",
+        "address": "ΑΛΚΜΑΝΟΣ 36",
+        "area": " Αθήνα",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "BRASSERIE VALAORITOU",
+        "address": "ΒΑΛΑΩΡΙΤΟΥ 15",
+        "area": " Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "CHINAS FANTASY",
+        "address": "ΛΕΩΦ. ΣΥΓΓΡΟΥ 207",
+        "area": "ΝΕΑ ΣΜΥΡΝΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "THE MARGI CAFE TABAC RESTAURANT",
+        "address": "ΛΗΤΟΥΣ 11",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "THE MARGI MALABAR BAR",
+        "address": "ΛΗΤΟΥΣ 11",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "THE MARGI J LOUNGE",
+        "address": "ΛΗΤΟΥΣ 11",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "THE MARGI MALABAR RESTAURANT",
+        "address": "ΛΗΤΟΥΣ 11",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΖΕΝ",
+        "address": "ΜΑΡΙΝΑ",
+        "area": "ΒΟΥΛΙΑΓΜΕΝΗ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "VIETNAM",
+        "address": "ΑΧΙΛΛΕΩΣ 91",
+        "area": "ΠΑΛΙΟ ΦΑΛΗΡΟ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "SPUNTINO",
+        "address": "ΦΟΙΒΗΣ & ΕΥΑΓΓΕΛΙΣΤΡΙΑΣ 50",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "TARTARE",
+        "address": "ΦΑΙΔΡΑΣ & ΠΑΝΑΓΟΥΛΗ 52",
+        "area": "ΓΛΥΦΑΔΑ",
+        "wine": "Golden Samena<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "L'ABREUVOIR",
+        "address": "ΞΕΝΟΚΡΑΤΟΥΣ 51",
+        "area": "Αθήνα",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΠΛΑ",
+        "address": "ΧΑΡ. ΤΡΙΚΟΥΠΗ 135",
+        "area": "ΝΕΑ ΕΡΥΘΡΑΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "DIRTY GINGER",
+        "address": "ΤΡΙΠΤΟΛΕΜΟΥ 46",
+        "area": " Αθήνα",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΡΑΦΤΟΠΟΥΛΑ",
+        "address": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ ΛΙΜΑΝΙ",
+        "area": "ΠΟΡΤΟ ΡΑΦΤΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΠΑΧΗ",
+        "address": "ΠΑΧΗ",
+        "area": "ΜΕΓΑΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΦΡΑΓΚΙΑΣ",
+        "address": "ΛΕΙΒΑΔΑΚΙ",
+        "area": "ΛΟΥΤΡΑΚΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΤΟ ΧΑΓΙΑΤΙ ΤΗΣ ΕΛΕΝΑΣ",
+        "address": "ΠΟΣΕΙΔΩΝΟΣ 49",
+        "area": "ΛΟΥΤΡΑΚΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΠΑΡΑΔΟΣΙΑΚΟ ΚΑΦΕΝΕΙΟ",
+        "address": "Γ. ΣΧΙΝΑ 76",
+        "area": "ΜΕΓΑΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΚΡΟΓΙΑΛΙΑ",
+        "address": "ΚΟΥΝΟΥΠΙΤΣΑ",
+        "area": "ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "CASTELO",
+        "address": "ΚΑΜΙΝΙΑ ΥΔΡΑΣ",
+        "area": "ΥΔΡΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΑΡΣΑΝΑΣ",
+        "address": "ΠΑΛΙΟ ΛΙΜΑΝΙ ΣΠΕΤΣΩΝ",
+        "area": " ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΤΟ ΛΙΟΤΡΙΒΙ",
+        "address": "ΠΑΛΙΟ ΛΙΜΑΝΙ ΣΠΕΤΣΩΝ",
+        "area": "ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΝΑΛΙΟΝ",
+        "address": "ΒΛΗΧΟΣ",
+        "area": "ΥΔΡΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΟ ΝΕΡΟ ΤΗΣ ΑΓΑΠΗΣ",
+        "address": "ΚΟΥΝΟΥΠΙΤΣΑ",
+        "area": "ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CUTTY SARK ( ΒΛΑΧΑΙΤΗΣ ΝΙΚΟΣ ) ( ΚΑΦΕ - BAR - Α+1 Main.Style )",
+        "address": "ΣΤΡΑΤΑΡΧΟΥ ΚΑΡΑΙΣΚΑΚΗ 55",
+        "area": "ΧΑΙΔΑΡΙ",
+        "wine": "Σάμος Doux<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "CAVO DORO ( ΜΙΖΑΣ ΙΩΑΝΝΗΣ ) ( ΟΥΖΕΡΙ - Α+1 Main.Style )",
+        "address": "ΠΑΡΑΛΙΑ ΨΑΘΑΣ",
+        "area": "ΒΙΛΙΑ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena37.5<br>Golden Samena"
+    }, {
+        "restaurant": "ΠΑΧΗ ( ΜΙΖΑΣ ΙΩΑΝΝΗΣ ) ( ΟΥΖΕΡΙ - Α-1 Main.Trad. )",
+        "address": "ΠΑΧΗ",
+        "area": "ΜΕΓΑΡΑ",
+        "wine": "Σάμος Doux<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΤΟ ΧΑΓΙΑΤΙ ΤΗΣ ΕΛΕΝΑΣ ( ΜΙΖΑΣ ΙΩΑΝΝΗΣ ) ( ΟΥΖΕΡΙ - Β+1 Sel.Style )",
+        "address": "ΠΟΣΕΙΔΩΝΟΣ 49",
+        "area": "ΛΟΥΤΡΑΚΙ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena"
+    }, {
+        "restaurant": "ΤΑΡΣΑΝΑΣ (ΒΕΡΓΑΔΟΣ ΣΤΑΥΡΟΣ) (ΤΑΒΕΡΝΑ - Α-1 Main.Trad.)",
+        "address": "ΠΑΛΙΟ ΛΙΜΑΝΙ ΣΠΕΤΣΩΝ",
+        "area": "ΣΠΕΤΣΕΣ",
+        "wine": "Σάμος Doux<br>Σάμος Grand Cru"
+    }],
+    "thessaloniki": [{
+        "restaurant": "ELECTRA PALACE ΟΡΙΖΟΝΤΕΣ BAR - RESTAURANT",
+        "address": "ΠΛ. ΑΡΙΣΤΟΤΕΛΟΥΣ 9",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "Ο ΣΤΑΥΡΟΣ",
+        "address": "ΑΡΓΟΝΑΥΤΩΝ 17",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΤΟ ΚΟΥΤΟΥΚΙ ΤΟΥ ΚΑΒΟΥΡΗ",
+        "address": "ΜΗΤΡ. ΚΑΛΛΙΔΟΥ 71",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux<br>Golden Samena"
+    }, {
+        "restaurant": "JAMES",
+        "address": "ΛΕΩΦ. ΝΙΚΗΣ 23",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές<br>Σάμος Άνθεμις<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ON THE ROAD",
+        "address": "ΛΕΩΦ. ΝΙΚΗΣ 61",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "YACHT",
+        "address": "ΛΕΩΦ. ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 2",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "MAKEDONIA PALACE 5 THE RESTAURANT",
+        "address": "ΛΕΩΦ. ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 2",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "LEVEL 9",
+        "address": "ΛΕΩΦ. ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 2",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "GARCON",
+        "address": "ΑΓΙΑΣ ΣΟΦΙΑΣ 2",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "TRE MΑRIE Ι",
+        "address": "Π. Π. ΓΕΡΜΑΝΟΥ 13",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "TRE MARIE III",
+        "address": "ΚΟΜΝΗΝΩΝ 3 & ΚΟΛΟΚΟΤΡΩΝΗ",
+        "area": "ΠΑΝΟΡΑΜΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SPINTE",
+        "address": "ΠΛΑΤΕΙΑ ΑΡΙΣΤΟΤΕΛΟΥΣ 5",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CLOCHARD",
+        "address": "ΠΡΟΞ. ΚΟΡΟΜΗΛΑ 4",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΖΥΘΟΣ ( ΛΑΔΑΔΙΚΑ )",
+        "address": "ΚΑΤΟΥΝΗ 5",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "LES LAZARISTES HOTEL FRED & GINGER RESTAURANT",
+        "address": "ΚΟΛΟΚΟΤΡΩΝΗ 16",
+        "area": "ΣΤΑΥΡΟΥΠΟΛΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΓΙΟΛΙ",
+        "address": "ΑΡΙΣΤΟΤΕΛΟΥΣ & ΜΗΤΡΟΠΟΛΕΩΣ",
+        "area": " ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΡΑΚΟΜΕΛΟ",
+        "address": "ΘΕΜ. ΣΟΦΟΥΛΗ 36",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΑΜΑ ΤΟ",
+        "address": "ΩΡΑΙΟΚΑΣΤΡΟΥ 126-128",
+        "area": "ΣΤΑΥΡΟΥΠΟΛΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΝΕΙΡΟΥ ΕΛΛΑΣ",
+        "address": "ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ 82",
+        "area": "ΕΛΕΥΘΕΡΙΟ",
+        "wine": "Σάμος Doux<br>Golden Samena"
+    }, {
+        "restaurant": "ΟΥΖΑΡΑΛΙΚΙ",
+        "address": "ΕΠΤΑΠΥΡΓΙΟΥ 165",
+        "area": "ΣΥΚΙΕΣ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena"
+    }, {
+        "restaurant": "ΤΟ ΣΤΕΚΙ ΤΟΥ ΜΠΑΚΑΛΗ",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 66",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΑΥΡΗ ΘΑΛΑΣΣΑ",
+        "address": "ΑΝΑΤΟΛΙΚΗΣ ΘΡΑΚΗΣ 63",
+        "area": " ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Golden Samena"
+    }, {
+        "restaurant": "ΕΛΙΑ ΛΕΜΟΝΙ",
+        "address": "Μ. ΜΠΟΤΣΑΡΗ 19Α",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΒΑΛ' ΤΟΥ ΡΙΓΑΝΗ",
+        "address": "ΦΙΛΙΠΠΟΥ 79",
+        "area": "ΠΟΛΙΧΝΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΙΧΘΥΣ 2",
+        "address": "28ΗΣ ΟΚΤΩΒΡΙΟΥ Τ.Θ. 68",
+        "area": "ΑΣΒΕΣΤΟΧΩΡΙ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΧΙΛΛΕΙΟΝ",
+        "address": "ΛΕΩΦ. ΝΙΚΗΣ 37",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "VILLAGE WORLD GOLD CLASS BAR - RESTAURANT",
+        "address": "11ο ΧΛΜ Ε.Ο. ΘΕΣΣΑΛΟΝΙΚΗΣ- ΜΟΥΔΑΝΙΩ",
+        "area": "ΠΥΛΑΙΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΖΥΘΟΣ - ΝΤΟΡΕ - ΜΑΥΡΟΜΑΤΗ  Δ.",
+        "address": "ΤΣΙΡΟΓΙΑΝΝΗ 7 ,",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ZAZOUS",
+        "address": "ΘΕΜ. ΣΟΦΟΥΛΗ 100",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΧΑΜΟΔΡΑΚΑΣ",
+        "address": "Μ. ΓΑΓΥΛΗ 13",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΓΕΝΤΙ",
+        "address": "Ι. ΠΑΠΑΡΕΣΚΑ 13",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MISTRAL",
+        "address": "ΤΗΝΟΥ 4",
+        "area": " ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΣΑΜΑΡΑΚΙΑ",
+        "address": "ΔΕΛΦΩΝ 5 & ΔΑΒΑΚΗ 21",
+        "area": "ΠΥΛΑΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΔΟΣ ΜΑΓΕΙΡΩΝ",
+        "address": "ΟΡΕΣΤΟΥ 37",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "MAISON CRYSTAL",
+        "address": "ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 6",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΕΛΙΤ",
+        "address": "ΠΛΑΤΕΙΑ ΝΑΥΑΡΙΝΟΥ 14",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΘΕΡΜΑΙΣ",
+        "address": "Κ. ΧΑΨΑ & Δ. ΚΑΡΑΟΛΗ",
+        "area": "ΘΕΡΜΗ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena"
+    }, {
+        "restaurant": "ΑΧΙΝΟΣ",
+        "address": "ΕΡΜΟΥ & ΒΑΣ. ΗΡΑΚΛΕΙΟΥ",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΣΚΑΝΤΖΟΧΟΙΡΟΣ",
+        "address": "ΠΑΥΛΟΥ ΜΕΛΑ 26",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΓΗ ΚΑΙ ΘΑΛΑΣΣΑ",
+        "address": "ΕΤΕΟΚΛΕΟΥΣ 28",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Golden Samena"
+    }, {
+        "restaurant": "SMALL",
+        "address": "ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 1",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DISHCOTTO",
+        "address": "ΑΝΑΛΗΨΕΩΣ 5",
+        "area": "ΠΑΝΟΡΑΜΑ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "UNIQUE CAFETERIANS",
+        "address": "ΛΕΩΦ. ΔΗΜΟΚΡΑΤΙΑΣ & ΚΟΜΝΗΝΩΝ 28",
+        "area": "ΩΡΑΙΟΚΑΣΤΡΟ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "REGENCY CASINO ALFREDOS RESTAURANT",
+        "address": "12 ο ΧΛΜ ΘΕΣ/ΝΙΚΗΣ - ΑΕΡΟΔΡΟΜΙΟΥ",
+        "area": "ΘΕΡΜΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "HYATT REGENCY HOTEL AMBROSIA RESTAURANT",
+        "address": "13ο ΧΛΜ ΘΕΣ/ΝΙΚΗΣ - ΠΕΡΑΙΑΣ",
+        "area": " ΘΕΡΜΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Νέκταρ<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΟΥΖΕΡΙ ΣΤΗΝ ΕΥΚΑΡΠΙΑ",
+        "address": "25ης ΜΑΡΤΙΟΥ 32",
+        "area": "ΕΥΚΑΡΠΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "LA PLACE MIGNONNE",
+        "address": "ΕΘΝ. ΑΜΥΝΗΣ 4",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΠΑΝΕΛΛΗΝΙΟΝ ( ΛΑΔΑΔΙΚΑ )",
+        "address": "ΔΟΞΗΣ 1",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΝΑΤΟΛΙΑ HOTEL (AQUA)",
+        "address": "ΛΑΓΚΑΔΑ 13",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΑΝΑΤΟΛΙΑ HOTEL AQUA RESTAURANT",
+        "address": "ΛΑΓΚΑΔΑ 13",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΓΑΛΑΞΙΑΣ HOTEL ANDROMEDA RESTAURANT",
+        "address": "ΓΡ. ΛΑΜΠΡΑΚΗ 2",
+        "area": "ΝΕΟΙ ΕΠΙΒΑΤΕΣ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΜΠΟΥΚΙΑ-ΜΠΟΥΚΙΑ ( ΛΑΔΑΔΙΚΑ )",
+        "address": "ΚΑΤΟΥΝΗ & ΟΠΛΟΠΟΙΟΥ 1",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "EXCELSIOR HOTEL",
+        "address": "ΜΗΤΡΟΠΟΛΕΩΣ 23",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΟ ΒΟΤΣΑΛΟ",
+        "address": "ΠΡ. ΚΟΡΟΜΗΛΑ 17",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΝΕΦΕΛΗ HOTEL ROOF RESTAURANT",
+        "address": "ΚΟΜΝΗΝΩΝ 1",
+        "area": "ΠΑΝΟΡΑΜΑ",
+        "wine": "Σάμος Άνθεμις<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΠΕΡΔΙΚΑ",
+        "address": "ΠΛΑΤΕΙΑ ΧΡΥΣΑΥΓΗΣ",
+        "area": "ΛΑΓΚΑΔΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΡΣΑΝΑΣ",
+        "address": "ΠΑΡΑΛΙΑ ΝΙΚΗΤΗΣ",
+        "area": "ΝΙΚΗΤΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΝΕΦΕΛΗ",
+        "address": "ΠΟΛΥΧΡΟΝΟ",
+        "area": "ΠΕΥΚΟΧΩΡΙ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "EKIES HOTEL ΚΟΥΤΑΛΙ RESTAURANT",
+        "address": "ΒΟΥΡΒΟΥΡΟΥ",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΜΑΜΙΣΙΟ",
+        "address": "ΕΓΝΑΤΙΑΣ 26",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΟΙΝΟΧΟΗ",
+        "address": "ΑΦΥΤΟΣ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΡΙΖΟΝΙ",
+        "address": "ΚΡΥΟΠΗΓΗ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΓΛΥΚΑΝΙΣΟΣ",
+        "address": "ΜΕΓΑΛΟΥ ΑΛΕΞΑΝΔΡΟΥ 46",
+        "area": "ΠΥΛΑΙΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΜΕΤΟΧΙ",
+        "address": "ΜΕΤΟΧΙ ΚΑΣΣΑΝΔΡΕΙΑΣ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ES",
+        "address": "ΦΡΑΓΚΩΝ 2 - 4",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "DAIOS LUXURY LIVING",
+        "address": "Λ. ΝΙΚΗΣ & ΧΡΥΣΟΣΤΟΜΟΥ ΣΜΥΡΝΗΣ 59",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "DAIOS LUXURY LIVING RESTAURANT",
+        "address": "Λ. ΝΙΚΗΣ & ΧΡΥΣΟΣΤΟΜΟΥ ΣΜΥΡΝΗΣ 59",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΛΦΑΒΗΤΑΡΙ",
+        "address": "Π. ΠΑΠΑΔΟΠΟΥΛΟΥ 6",
+        "area": "ΠΑΝΟΡΑΜΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "TRE MARIE ΙΙ",
+        "address": "ΘΕΜ. ΣΟΦΟΥΛΗ 57",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΜΒΡΟΣΙΑ",
+        "address": "ΛΙΝΔΟΣ",
+        "area": " ΛΙΝΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "GIORGOS CAFE BAR",
+        "address": "ΛΙΝΔΟΣ",
+        "area": "ΛΙΝΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΡΙΓΚΙΠΕΣΑ",
+        "address": "Λ. ΠΑΠΑΝΙΚΟΛΑΟΥ 150",
+        "area": "ΑΣΒΕΣΤΟΧΩΡΙ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΡΙΣΤΟΤΕΛΟΥΣ",
+        "address": "ΑΡΙΣΤΟΤΕΛΟΥΣ 8",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "BARθELONIKA",
+        "address": "ΒΕΝΙΖΕΛΟΥ 3",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΧΡΥΣΙΚΟΣ",
+        "address": "ΑΓ. ΠΑΡΑΣΚΕΥΗΣ 9",
+        "area": "ΩΡΑΙΟΚΑΣΤΡΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "WHITE BUNGALOW",
+        "address": "ΜΕΓ.ΑΛΕΞΑΝΔΡΟΥ 10",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "CASABLANCA",
+        "address": "ΚΕΡΑΣΟΥΝΤΟΣ 4",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΠΕΡΙ ΟΡΕΞΕΩΣ",
+        "address": "ΦΙΛΙΠΠΟΥ 13",
+        "area": "ΑΞΙΟΥΠΟΛΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "VINOVATION",
+        "address": "ΑΡΙΣΤΟΤΕΛΟΥΣ 8",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "LA SALLE DU VIN",
+        "address": "Λ. ΠΑΠΑΝΙΚΟΛΑΟΥ 119",
+        "area": "ΑΣΒΕΣΤΟΧΩΡΙ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΜΑΓΙΣΤΡΟΣ",
+        "address": "ΣΤΡ. ΚΑΛΑΡΗ 9",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "DARWIN",
+        "address": "ΑΓ.ΓΕΩΡΓΙΟΥ 17",
+        "area": "ΝΕΑ ΜΟΥΔΑΝΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "GINGER OIL",
+        "address": "Π. Π. ΓΕΡΜΑΝΟΥ 23",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "BRISTOL",
+        "address": "Γ. ΠΑΠΑΝΔΡΕΟΥ 24",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΑΣΟΣ&ΜΙΧΑΛΗΣ",
+        "address": "ΕΡΜΙΟΝΗ",
+        "area": "ΕΡΜΙΟΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΑΠΟΔΙΣΤΡΙΟΥ 9",
+        "address": "ΚΑΠΟΔΙΣΤΡΙΟΥ 9",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ANTHEMUS SEA TAVERN",
+        "address": "ΝΙΚΗΤΗ",
+        "area": "ΝΙΚΗΤΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ANTHEMUS SEA ROOF GARDEN",
+        "address": "ΝΙΚΗΤΗ",
+        "area": "ΝΙΚΗΤΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ANTHEMUS SEA RESTAURANT",
+        "address": "ΝΙΚΗΤΗ",
+        "area": "ΝΙΚΗΤΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΟΡΤΟ ΜΑΡΙΝΑ",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 79",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "AZZURRO",
+        "address": "ΘΕΜ. ΣΟΦΟΥΛΗ 86",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Άνθεμις<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "MARCEL",
+        "address": "ΚΑΝΑΡΗ & ΤΗΝΟΥ 2",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΓΟΡΑ",
+        "address": "ΚΑΠΟΔΙΣΤΡΙΟΥ 5",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena"
+    }, {
+        "restaurant": "ΒΡΑΧΟΣ",
+        "address": "ΜΙΚΡΑΣ ΑΣΙΑΣ 2",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "Ο ΑΝΤΩΝΗΣ",
+        "address": "ΚΟΥΝΤΟΥΡΙΩΤΟΥ 75",
+        "area": "ΝΕΟΙ ΕΠΙΒΑΤΕΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "SHARK",
+        "address": "ΑΡΓΟΝΑΥΤΩΝ 2",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "OMILOS",
+        "address": "ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ 12",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "TIFFANYS",
+        "address": "ΙΚΤΙΝΟΥ 3",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Η ΓΕΥΣΗ ΤΗΣ ΚΙΝΑΣ",
+        "address": "ΑΝΑΛΗΨΕΩΣ 64",
+        "area": "ΠΑΝΟΡΑΜΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΟΙΝΟΥΣΣΕΣ",
+        "address": "ΜΑΡΙΑ ΚΑΛΛΑΣ 29",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΠΙΤ ΠΑΖΑΡ",
+        "address": "ΠΡΟΣΦΥΓΙΚΗΣ ΑΓΟΡΑΣ 33-34",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΑΝΔΡΑΓΟΡΑΣ",
+        "address": "ΜΗΤΡΟΠΟΛΕΩΣ 98",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΑΞΙΔΙ",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 91",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "KITCHEN BAR",
+        "address": "Β' ΑΠΟΘΗΚΗ Ο.Λ.Θ.",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΟ ΥΠΟΒΡΥΧΙΟ",
+        "address": "ΣΥΓΓΡΟΥ 6",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ALEA",
+        "address": "ΙΣΑΥΡΩΝ 12",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΕΡΜΗΣ",
+        "address": "ΡΟΓΚΟΤΗ 4",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΝΕΣΤΗΣ",
+        "address": "ΛΕΩΦ. ΘΕΣΣΑΛΟΝΙΚΗΣ-ΜΗΧΑΝΙΩΝΑΣ 78",
+        "area": "ΘΕΡΜΗ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΕΡΜΗΣ",
+        "address": "ΡΟΓΚΟΤΗ 4",
+        "area": "ΘΕΣΣΑΛΟΝΙΚΗ",
+        "wine": "Golden Samena<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΝΕΑ ΔΙΑΓΩΝΙΟΣ",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 89",
+        "area": "ΚΑΛΑΜΑΡΙΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }],
+    "other": [{
+        "restaurant": "PRIVILEGE",
+        "address": "ΦΩΝΙΑΛΑΚΗ 7",
+        "area": "ΙΕΡΑΠΕΤΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "AIGIALIS HOTEL",
+        "address": "ΘΟΛΑΡΙΑ",
+        "area": " ΑΜΟΡΓΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ALEXIA",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "APOLLO",
+        "address": "ΜΑΛΙΑ ΠΕΔΙΑΔΟΣ",
+        "area": "ΜΑΛΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ART",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 6",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ARTE LIBRE GALLERIA",
+        "address": "ΣΥΓΚΡΟΤΗΜΑ ΤΣΑΛΑΠΑΤΑ",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ASTRA",
+        "address": "ΕΛ. ΒΕΝΙΖΕΛΟΥ 111",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "AVANTI",
+        "address": "ΒΑΣ. ΓΕΩΡΓΙΟΥ 4",
+        "area": "ΚΩΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BANNANAS",
+        "address": "ΑΓΙΑ ΑΝΝΑ",
+        "area": "ΝΑΞΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "BASSETTI",
+        "address": "ΜΠΟΥΚΟΓΙΑΝΝΗ 4",
+        "area": "ΑΓΡΙΝΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BAΜBOO",
+        "address": "ΚΑΛΑΜΑΚΙ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BIG BEN",
+        "address": "ΜΑΛΙΑ ΠΕΔΙΑΔΟΣ",
+        "area": "ΜΑΛΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BISTROT46",
+        "address": "ΑΜΕΡΙΚΗΣ 46",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BUENO",
+        "address": "ΑΚΤΗ Ν. ΠΑΓΚΑΛΟΥ 10",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CAFE DU LAC",
+        "address": "28ης ΟΚΤΩΒΡΙΟΥ 17",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CALDERA PALACE",
+        "address": "ΜΗΛΙΩ ΚΕΦΑΛΑ",
+        "area": "ΛΙΜΗΝ ΧΕΡΣΟΝΗΣΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CARETTA - CARETTA",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CASINO RODOS",
+        "address": "ΠΑΠΑΝΙΚΟΛΑΟΥ 4",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CAVO DORO",
+        "address": "ΠΑΡΑΛΙΑ ΨΑΘΑΣ",
+        "area": "ΒΙΛΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "CENTRAL",
+        "address": "ΑΡΧΙΠΕΛΑΓΟΥΣ & ΣΑΜΟΥ",
+        "area": "ΜΥΤΙΛΗΝΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "COSTA - COSTA",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "COZMO",
+        "address": "ΑΦΕΝΤΟΥΛΙΕΦ 2",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CREAM",
+        "address": "ΑΝΔΡΟΥ 11",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CREAM",
+        "address": "ΔΩΔΩΝΗΣ 23",
+        "area": "ΙΩΑΝΝΙΝΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "CUL DE SAC",
+        "address": "ΤΙΤ. ΠΕΤΥΧΑΚΗ 7",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DALUZ",
+        "address": "ΚΥΠΡΟΥ 2",
+        "area": "ΣΕΡΡΕΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "DEGRE ZERO",
+        "address": "ΜΥΛΟΝΟΓΙΑΝΝΗ 1",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DESIRE",
+        "address": "ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΜΑΚΑΡΙΟΥ 17",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DIVERSO",
+        "address": "ΒΑΡΘΟΛΟΜΑΙΟΥ 25",
+        "area": "ΣΗΤΕΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "DROPS",
+        "address": "ΑΡΓΟΝΑΥΤΩΝ 64",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ECLIPSE",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ELIROS HOTEL",
+        "address": "ELIROS HOTEL",
+        "area": "ΒΡΥΣΕΣ ΑΠΟΚΟΡΩΝΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ELYSIUM HOTEL",
+        "address": "ΑΜΜΟΥΔΕΣ ΚΟΣΚΙΝΟΥ",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ESCOBA",
+        "address": "ΧΩΡΑ",
+        "area": "ΝΑΞΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "FOYER",
+        "address": "ΟΓΛ 29 Α",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "GINGER",
+        "address": "ΡΗΓΑ ΦΕΡΡΑΙΟΥ 142",
+        "area": "ΠΑΤΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "GROOVE",
+        "address": "ΚΟΥΜΟΥΝΔΟΥΡΟΥ-ΚΟΝΤΑΡΑΤΟΥ",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "GURU",
+        "address": "ΑΡΗ ΒΕΛΟΥΧΙΩΤΗ 2",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ICE CLUB",
+        "address": "ΜΕΛΙΣΣΙΝΟΥ 19",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "IL NOSTRO",
+        "address": "ΑΚΤΗ ΜΙΑΟΥΛΗ 21",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "INTERNET CAFE",
+        "address": "ΑΤΣΙΠΟΠΟΥΛΟ - Δ. ΝΙΚ. ΦΩΚΑ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "IWUANA",
+        "address": "ΠΗΓΙΑΝΟΣ ΚΑΜΠΟΣ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "KILLY BILLY",
+        "address": "ΑΧΑΡΑΒΗ",
+        "area": "ΚΕΡΚΥΡΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "KOS AKTIS",
+        "address": "B ΓΕΩΡΓΙΟΥ 7",
+        "area": "ΚΩΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "LA BRASSERIE",
+        "address": "ΚΟΡΑΗ 15",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "LAYAL",
+        "address": "ΣΟΥΤΡΑΛΙ",
+        "area": "ΑΓΡΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "LIVING ROOM",
+        "address": "ΕΛ. ΒΕΝΙΖΕΛΟΥ 5",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux (ΚΙΒ 12 Φ)"
+    }, {
+        "restaurant": "LOBY BAR",
+        "address": "ΑΚΤΗ ΠΟΣΕΙΔΩΝΟΣ 48",
+        "area": "ΛΟΥΤΡΑΚΙ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "MAEVA",
+        "address": "ΚΑΒΡΟΣ",
+        "area": " ΒΡΥΣΕΣ ΑΠΟΚΟΡΩΝΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MAMBO",
+        "address": "ΚΑΤΩ ΣΤΑΛΟΣ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MAMBO",
+        "address": "ΠΗΓΙΑΝΟΣ ΚΑΜΠΟΣ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MIST",
+        "address": "ΤΣΟΥΔΕΡΩΝ & ΠΛΑΤΕΙΑ ΜΑΡΚΟΠΟΥΛΟΥ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MOJO",
+        "address": "ΠΑΠΑΝΔΡΕΟΥ & ΑΡΧΟΝΤΑΚΗ 41",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MOJO",
+        "address": "ΧΩΡΑ ΝΑΞΟΣ",
+        "area": "ΝΑΞΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "MOLO",
+        "address": "Ι. ΚΟΥΝΔΟΥΡΟΥ 6",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MY CAFE",
+        "address": "ΣΚΑΛΙΔΗ 37",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "NAUTILUS",
+        "address": "Ν. ΚΑΛΟΓΕΡΑ",
+        "area": "ΜΥΚΟΝΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "NOVO",
+        "address": "ΜΙΛΑΤΟΥ 13",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "NUVEL",
+        "address": "ΝΕΑΡΧΟΥ 47",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PANDEMONIUM",
+        "address": "ΚΟΚΚΙΝΟΣ ΠΥΡΓΟΣ ΤΥΜΠΑΚΙΟΥ",
+        "area": "ΤΥΜΠΑΚΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PAZO",
+        "address": "ΟΡΦΑΝΙΔΟΥ 55 & ΑΚΤΗ ΜΙΑΟΥΛΗ 28 - 30",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PERSONA GRATA",
+        "address": "ΙΑΚ.ΠΟΛΥΛΑ 24",
+        "area": "ΚΕΡΚΥΡΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "PILOT",
+        "address": "ΓΕΩΡΓΙΟΥΠΟΛΗ",
+        "area": "ΒΡΥΣΕΣ ΑΠΟΚΟΡΩΝΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PUERTO",
+        "address": "Ι. KOYΝΔΟΥΡΟΥ - ΕΒΑΝΣ",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "RECITAL",
+        "address": "Λ.62 ΜΑΡΤΥΡΩΝ 7",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "REMEZZO",
+        "address": "Γ. ΣΕΠΤΕΜΒΡΙΟΥ",
+        "area": "ΓΑΖΙ - ΑΜΜΟΥΔΑΡΑ",
+        "wine": "Σάμος Doux (ΚΙΒ 12 Φ)"
+    }, {
+        "restaurant": "RIVERA",
+        "address": "ΚΑΤΩ ΓΑΤΖΕΑ ΒΟΛΟΥ",
+        "area": "ΑΓΡΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ROBINSON CLUB LYTTOS BEACH  ",
+        "address": "ΛΙΜΗΝ ΧΕΡΣΟΝΗΣΟΥ",
+        "area": "ΧΕΡΣΟΝΗΣΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ROMEO",
+        "address": "ΑΡΧ. ΘΕΑΤΡΟΥ & ΑΓΓΕΛΙΚΑΡΑ",
+        "area": "ΕΡΕΤΡΙΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ROOM 109",
+        "address": "ΣΟΦΟΚΛΗ ΒΕΝΙΖΕΛΟΥ 109",
+        "area": " ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "RUBAIYAT",
+        "address": "ΖΥΜΒΡΑΚΑΚΗ 2-4",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SAFRAN",
+        "address": "ΑΚΤΗ ΤΟΜΠΑΖΗ 30",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SAVVY",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SAXO",
+        "address": "ΚΥΡΒΑ 14",
+        "area": " ΙΕΡΑΠΕΤΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SEE YOU",
+        "address": "ΑΚΤΗ ΜΙΑΟΥΛΗ 4",
+        "area": " ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SEMIRAMIS",
+        "address": "ΣΚΟΥΦΩΝ 8",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SENSO",
+        "address": "ΣΚΑΛΙΔΗ & ΧΑΛΗΔΩΝ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SIESTA",
+        "address": "ΚΑΜΠΟΣ ΠΗΓΗΣ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SPITAKI",
+        "address": "ΟΓΛ 37",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "SPLENDID",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SUN BEACH",
+        "address": "ΠΑΡΑΛΙΑ ΙΑΛΥΣΟΥ",
+        "area": "ΙΑΛΥΣΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "THE BAR",
+        "address": "ΠΑΡΑΛΙΑ ΤΕΛΩΝΕΙΟΥ",
+        "area": "ΚΙΣΣΑΜΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "TITOS",
+        "address": "ΓΕΩΡΓΙΟΥΠΟΛΗ",
+        "area": "ΒΡΥΣΕΣ ΑΠΟΚΟΡΩΝΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "TRAFFIC",
+        "address": "ΚΑΣΤΕΛΙ ΚΙΣΣΑΜΟΥ",
+        "area": "ΚΙΣΣΑΜΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "UTOPIA",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "VILLA MERCEDES",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΓΓΕΛΟΣ",
+        "address": "ΨΑΘΑ ΒΙΛΙΩΝ",
+        "area": "ΒΙΛΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΕΡΗΔΕΣ",
+        "address": "ΠΑΧΕΙΑ ΑΜΜΟΣ",
+        "area": "ΙΕΡΑΠΕΤΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΕΡΙΚΟ",
+        "address": "ΧΕΙΜΑΡΡΑΣ 3",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux (ΚΙΒ 12 Φ)"
+    }, {
+        "restaurant": "ΑΚΡΟΓΙΑΛΙ",
+        "address": "ΑΚΤΗ ΠΑΠΑΝΙΚΟΛΗ 19",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΚΡΟΓΙΑΛΙ",
+        "address": "ΑΚΤΗΣ 10",
+        "area": "ΤΟΛΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΚΡΟΓΙΑΛΙ",
+        "address": "ΠΕΡΙΓΙΑΛΙ ΚΟΡΙΝΘΙΑΣ",
+        "area": "ΠΕΡΙΓΙΑΛΙ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΚΤΗ",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ ΚΥΔΩΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΛΕΞΗΣ",
+        "address": "ΑΚΤΗ ΣΑΝΗ",
+        "area": " ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΑΛΕΞΗΣ",
+        "address": "ΠΑΡΟΔΟΣ ΣΩΚΡΑΤΟΥΣ",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΛΕΞΗΣ 4 ΕΠΟΧΕΣ",
+        "address": "ΑΡΙΣΤΟΤΕΛΟΥΣ 33",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΜΑΛΘΕΙΑ",
+        "address": "ΜΙΣΣΙΡΙΑ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΜΜΟΣ ΚΑΙ ΗΛΙΟΣ",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΜΟΡΓΙΣ",
+        "address": "ΟΡΜΟΣ ΑΙΓΙΑΛΗΣ",
+        "area": "ΑΜΟΡΓΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΝΕΣΤΗΣ",
+        "address": "ΛΕΩΦ. ΘΕΣΣΑΛΟΝΙΚΗΣ-ΜΗΧΑΝΙΩΝΑΣ 78",
+        "area": "ΘΕΡΜΗ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΑΠΕΡΑΝΤΟ ΓΑΛΑΖΙΟ",
+        "address": "ΚΟΛΙΟΣ",
+        "area": "ΣΚΙΑΘΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΑΠΛΑΔΑΣ",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΠΩΝ",
+        "address": "ΤΖΑΝΑΚΑΚΗ 70",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΡΑΠΑΚΟΣ",
+        "address": "ΜΠΟΥΜΠΟΥΛΙΝΑΣ 81",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΡΩΜΑ",
+        "address": "ΑΚΤΗ ΤΟΜΠΑΖΗ 4",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΣΤΕΡΑΣ",
+        "address": "ΛΕΩΦ. ΚΝΩΣΣΟΥ 255",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΓΑΛΗΝΗ",
+        "address": "ΜΑΚΡΥΝΙΤΣΑ ΠΗΛΙΟΥ",
+        "area": "ΠΟΡΤΑΡΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΓΕΥΣΗΠΛΟΥΣ",
+        "address": "ΑΚΡΩΤΗΡΙΟΥ 3",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΓΟΡΓΟΝΑ",
+        "address": "ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ & ΣΙΝΑ 100",
+        "area": "ΚΟΡΙΝΘΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΓΟΥΛΙΑ ΓΟΥΛΙΑ",
+        "address": "ΑΚΑΔΗΜΙΑΣ 4",
+        "area": "ΙΩΑΝΝΙΝΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΔΙΕΛΕΥΣΗ",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΛΙΑ",
+        "address": "ΑΠΕΛΛΟΥ 27",
+        "area": "ΚΩΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΛΙΑ Κ ΔΥΟΣΜΟΣ",
+        "address": "ΣΙΔ. ΣΤΑΘΜΟΥ 11",
+        "area": "ΚΑΛΑΜΑΤΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΕΛΛΗΝΙΚΟΝ",
+        "address": "ΑΚΤΗ ΜΙΑΟΥΛΗ 4",
+        "area": " ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΛΞΙΣ",
+        "address": "ΙΩΛΚΟΥ 348 Α",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΕΝ ΠΛΩ",
+        "address": "ΚΑΡΑΜΑΝΛΗ 2",
+        "area": "ΣΗΤΕΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΝΟΔΙΑ",
+        "address": "ΚΟΡΑΗ 12",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΠΟΧΕΣ",
+        "address": "ΑΚΤΗ ΚΟΥΝΤΟΥΡΙΩΤΗ 52-53",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΡΩΦΙΛΗ MEETING ROOM",
+        "address": "ΑΛΟΝΝΗΣΟΥ 8",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΖΟΡΜΠΑΣ",
+        "address": "ΣΤΑΙΚΟΠΟΥΛΟΥ 30",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΗΡΙΔΑΝΟΣ",
+        "address": "ΑΝΔΡΟΓΕΩ 8",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΘΑΥΜΑ ΕΝ ΚΑΙΡΩ",
+        "address": "ΕΛ. ΒΕΝΙΖΕΛΟΥ 16-18",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΘΕΜΑ",
+        "address": "ΗΠΕΙΡΟΥ 42",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΙΠΠΟΠΟΤΑΜΟΣ",
+        "address": "ΣΑΡΠΙΔΩΝΟΣ 6",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΙΩΑΝΝΙΝΩΝ ΠΟΛΙΤΕΙΑ",
+        "address": "ΛΟΦΟΣ ΑΓΙΑΣ ΤΡΙΑΔΑΣ",
+        "area": "ΙΩΑΝΝΙΝΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΑΒΟΥΡΑΣ",
+        "address": "ΑΚΤΗ ΤΟΜΠΑΖΗ 1",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "καζινο λουτρακιου",
+        "address": "ΑΚΤΗ ΠΟΣΕΙΔΩΝΟΣ 48",
+        "area": "ΛΟΥΤΡΑΚΙ",
+        "wine": "Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΚΑΪΚΙΑ",
+        "address": "ΜΑΚΑΡΙΟΥ 15",
+        "area": "ΧΑΛΚΙΔΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΑΛΥΜΝΟΣ",
+        "address": "ΑΒΕΡΩΦ 1",
+        "area": " ΚΩΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΑΠΕΤΑΝΙΟΣ",
+        "address": "25 ΜΑΡΤΙΟΥ 18",
+        "area": "ΧΑΛΚΙΔΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΑΡΜΑ",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 2",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΑΦΕ ΚΑΦΕ",
+        "address": "Μ. ΜΕΤΑΞΑΚΗ 1",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΑΦΕ ΚΑΦΕ",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΗΠΟΣ",
+        "address": "ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ 5",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΟΝΤΙΚΙ",
+        "address": "ΠΛΑΤΕΙΑ ΝΕΩΡΕΙΟΥ",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΟΣΜΟΣ",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΟΥΚΟΥΒΑΓΙΑ",
+        "address": "ΑΛ. ΜΙΝΩΤΗ - ΠΡ. ΗΛΙΑ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΛΙΜΑΝΙ",
+        "address": "ΑΚΤΗ ΤΟΜΠΑΖΗ 2",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΛΟΥΤΡΑΚΙ",
+        "address": "ΛΟΥΤΡΑΚΙ ΑΚΡΩΤΗΡΙ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΑΝΤΕΙΟ",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΑΥΡΙΚΟΣ",
+        "address": "ΛΙΝΔΟΣ",
+        "area": "ΛΙΝΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΕΛΙΝΑ",
+        "address": "ΧΕΙΜΑΡΑ & ΚΑΤΕΧΑΚΗ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΕΛΥΝΔΡΟΝ",
+        "address": "ΜΑΚΡΥΓΙΑΛΟΣ",
+        "area": "ΣΤΑΥΡΟΧΩΡΙ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΗΛΟΝ ΤΗΣ ΕΡΙΔΟΣ",
+        "address": "ΚΟΡΑΗ 18",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΟΝΑΣΤΗΡΙ",
+        "address": "ΑΚΤΗ ΤΟΜΠΑΖΗ 10-12",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΜΥΛΟΣ CLUB",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΝΕΡΟ",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΝΗΣΑΚΙ",
+        "address": "ΑΓ.ΓΕΩΡΓΙΟΣ - ΧΩΡΑ",
+        "area": "ΝΑΞΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΝΗΣΑΚΙ",
+        "address": "ΚΟΛΥΜΠΙΑ",
+        "area": "ΑΦΑΝΤΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΝΤΙΝΟΡΗΣ",
+        "address": "ΠΛΑΤΕΙΑ ΜΟΥΣΕΙΟΥ 14Α",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΞΕΝΙΑ",
+        "address": "ΠΛΑΣΤΗΡΑ 1",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "Ο ΒΑΣΙΛΗΣ",
+        "address": "ΣΤΑΙΚΟΠΟΥΛΟΥ 22",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "Ο ΒΡΑΧΟΣ",
+        "address": "ΜΑΚΑΡΙΟΥ 13",
+        "area": "ΧΑΛΚΙΔΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΟΔΟΣ ΟΝΕΙΡΩΝ",
+        "address": "Α ΠΑΡ. ΝΙΚ. ΕΠΙΣΚΟΠΟΥ 6-8",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΔΥΣΣΕΙΑ",
+        "address": "ΚΤΙΣΤΑΚΗ 9",
+        "area": " ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΚΤΑΒΑ",
+        "address": "ΧATZHΜΙΧΑΛΗ ΓΙΑΝΝΑΡΗ 23",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΟΥΣΙΑ",
+        "address": "ΗΠΕΙΡΟΥ 31-35",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΑΛΛΑΣ",
+        "address": "ΑΚΤΗ ΤΟΜΠΑΖΗ 15",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΑΝΟΡΑΜΑ",
+        "address": "ΣΕΚΕΡΗ 1",
+        "area": "ΤΟΛΟ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΠΑΡΑ ΝΑΟΥ",
+        "address": "ΝΙΚ. ΠΛΑΣΤΗΡΑ 2",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΠΑΡΑΓΑΔΙ",
+        "address": "ΚΛ. ΠΕΠΕΡ & ΑΥΣΤΡΑΛΙΑΣ",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΕΡΙΠΟΥ",
+        "address": "28ΗΣ ΟΚΤΩΒΡΙΟΥ 25",
+        "area": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΟΛΙΤΕΙΑ",
+        "address": "ΤΖΑΝΑΚΑΚΗ 19",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΟΡΤΟΚΑΛΙ",
+        "address": "ΓΕΦΥΡΑ ΠΛΑΤΑΝΙΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΡΙΜΑ ΠΛΩΡΑ",
+        "address": "ΣΤΑΜΑΘΙΟΥΔΑΚΗ & ΑΚΡΩΤΗΡΙΟΥ",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΡΟΒΑ",
+        "address": "ΠΡΟΦΗΤΗ ΗΛΙΑ 46",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΡΕΜΕΤΖΟ",
+        "address": "ΑΡΧ. ΘΕΑΤΡΟΥ 42",
+        "area": "ΕΡΕΤΡΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΡΙΖΕΣ",
+        "address": "ΠΑΡΑΜΑΝΤΡΙΑ",
+        "area": " ΣΕΡΙΦΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΥΜΠΟΣΙΟ",
+        "address": "ΠΛΑΤΑΝΙΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΥΝΑΓΩΓΗ",
+        "address": "ΠΑΡΟΔΟΣ ΚΟΝΔΥΛΑΚΗ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΤΑΚΙΣ",
+        "address": "ΠΑΡΑΛ.ΛΕΧΑΙΟΥ",
+        "area": "ΒΡΑΧΑΤΙ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΤΟ ΛΙΧΝΙΟΝ",
+        "address": "Λ. ΑΜΑΛΙΑΣ 13",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΤΟ ΧΡΥΣΟ ΒΑΡΕΛΙ",
+        "address": "ΣΤΑΙΚΟΠΟΥΛΟΥ 20",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΧΑΛΑΡΟ",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΧΑΤΖΗΚΕΛΗΣ",
+        "address": "ΣΟΛΩΜΟΥ ΑΛΧΑΔΕΒ",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΩΚΕΑΝΟΣ",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux<br>Golden Samena<br>Σάμος Grand Cru<br>Ψηλές Κορφές<br>Σάμος Νέκταρ<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "KAHLUA",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ ΚΥΔΩΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "IKAROS VILLAGE",
+        "address": "ΜΑΛΙΑ",
+        "area": "ΜΑΛΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΚΡΩΤΗΡΙ",
+        "address": "ΕΜΜ. ΚΑΡΑΒΕΛΑΚΗ 9",
+        "area": "ΣΗΤΕΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "SO FAR",
+        "address": "ΑΓΙΑ ΓΑΛΗΝΗ",
+        "area": " ΑΓΙΑ ΓΑΛΗΝΗ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "STAR BEACH",
+        "address": "Λ.ΧΕΡΣΟΝΗΣΟΥ",
+        "area": "ΛΙΜΗΝ ΧΕΡΣΟΝΗΣΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΚΑΡΥΑΤΗΣ",
+        "address": "ΚΑΤΕΧΑΚΗ 12",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "MINOA PALACE",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΤΟΜΕΣ ΑΚΙΝΗΤΑ Α.Ε.",
+        "address": "ΝΕΑΡΧΟΥ 18",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΕΥ ΚΟΥ ΖΗΝ",
+        "address": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 22",
+        "area": "ΝΕΑ ΠΕΡΑΜΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "JAZI MARE",
+        "address": "ΠΑΡΑΛΙΑ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+        "area": "ΡΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΑΝΓΟΥΙΝΓΚ",
+        "address": "5ο χλμ λεωφ ροδου  καλλιθεας",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΣΕΜΙΡΑΜΙΣ",
+        "address": "ΙΩΑΝ. ΜΕΤΑΞΑ 18",
+        "area": "ΡΟΔΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "IOLIDA BEACH",
+        "address": "ΑΓΙΑ ΜΑΡΙΝΑ",
+        "area": "ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΗΤΑΝ ΕΝΑ ΜΙΚΡΟ ΚΑΡΑΒΙ",
+        "address": "ΤΡΙΩΝ ΙΕΡΑΡΧΩΝ",
+        "area": "ΤΗΝΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "47",
+        "address": "ΑΚΤΗ ΚΟΥΝΤΟΥΡΙΩΤΗ 47",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CALDERA",
+        "address": "ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ 75  ΣΕΡΡΕΣ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΟΥΠΕΣ",
+        "address": "ΑΓΙΟΥ ΤΙΤΟΥ 22",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux<br>Σάμος Νέκταρ"
+    }, {
+        "restaurant": "ΛΙΜΝΗ",
+        "address": "ΖΑΡΟΣ ΗΡΑΚΛΕΙΟΥ",
+        "area": "ΖΑΡΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΠΕΡΑΣΜΑ",
+        "address": "ΑΓ. ΠΑΡΑΣΚΕΥΗΣ ΜΟΙΡΕΣ",
+        "area": "ΜΟΙΡΕΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PRIORITY",
+        "address": "ΚΥΡΒΑ 10",
+        "area": "ΙΕΡΑΠΕΤΡΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "BAHAR",
+        "address": "ΧΩΡΑΦΑΚΙΑ ΑΚΡΩΤΗΡΙΟΥ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "REMEZZO",
+        "address": "ΤΕΡΜΑ ΕΞΟΧΩΝ",
+        "area": "ΣΕΡΡΕΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "ΔΥΤΙΚΗ ΟΧΘΗ",
+        "address": "ΤΕΡΜΑ ΕΞΟΧΩΝ",
+        "area": "ΣΕΡΡΕΣ",
+        "wine": "Golden Samena"
+    }, {
+        "restaurant": "DOS AMIGOS",
+        "address": "ΠΛΑΤΑΝΙΑΣ",
+        "area": " ΠΛΑΤΑΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΘΕΑ",
+        "address": "ΠΟΥΝΤΑ",
+        "area": "ΠΑΡΟΣ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena<br>Σάμος Νέκταρ<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΜΠΑΧΑΡΙΚΟ",
+        "address": "ΔΗΜΗΤΡΙΑΔΟΣ 186 Β",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SIROCO",
+        "address": "ΑΛΜΥΡΙΔΑ ΑΠΟΚΩΡΩΝΟΥ",
+        "area": "ΒΡΥΣΕΣ ΑΠΟΚΟΡΩΝΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΛΟΥΣΗ",
+        "address": "ΑΚΤΗ ΚΑΛΑΜΙΤΣΑΣ",
+        "area": "ΚΑΒΑΛΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΔΡΥΑΔΕΣ",
+        "address": "ΒΥΤΙΝΑ ΑΡΚΑΔΙΑΣ",
+        "area": "ΒΥΤΙΝΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "CAFE MAGGIOLINO",
+        "address": "ΝΕΑΠΟΛΙΣ",
+        "area": "ΝΕΑΠΟΛΗ ΛΑΚΩΝΙΑΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "FIGARO",
+        "address": "ΒΕΡΝΑΔΟΥ 21-23",
+        "area": "ΡΕΘΥΜΝΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "MEXICAN FOOD",
+        "address": "ΧΑΝΔΑΚΟΣ 71",
+        "area": "ΗΡΑΚΛΕΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΞΕΝΟΝ",
+        "address": "ΠΛ.ΣΥΝΤΑΓΜΑΤΟΣ 2",
+        "area": "ΝΑΥΠΛΙΟ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΙΓΙΑΛΟΣ",
+        "address": "ΑΚΤΗ ΠΑΠΑΝΙΚΟΛΗ & ΧΑΟΥ",
+        "area": "ΧΑΝΙΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΛΜΠΑΤΡΟΣ",
+        "address": "ΔΑΙΔΑΛΟΥ 1",
+        "area": "ΛΙΜΗΝ ΧΕΡΣΟΝΗΣΟΥ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΛΟΥΣΗ",
+        "address": "ΑΚΤΗ ΚΑΛΑΜΙΤΣΑΣ",
+        "area": "ΚΑΒΑΛΑ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "PORTO SANI VILLAGE ARTEMIS RESTAURANT",
+        "address": "ΚΑΣΣΑΝΔΡΑ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SANI BEACH CLUB OLYMPOS RESTAURANT",
+        "address": "ΚΑΣΣΑΝΔΡΑ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "SANI BEACH CLUB ΟΥΖΕΡΙ",
+        "address": "ΚΑΣΣΑΝΔΡΑ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Σάμος Grand Cru"
+    }, {
+        "restaurant": "PAZO",
+        "address": "ΟΡΦΑΝΙΔΟΥ 55 & ΑΚΤΗ ΜΙΑΟΥΛΗ 28 - 30",
+        "area": " ΡΟΔΟΣ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΤΟ ΧΑΓΙΑΤΙ ΤΗΣ ΕΛΕΝΑΣ",
+        "address": "ΠΟΣΕΙΔΩΝΟΣ 49  ( ΜΙΖΑΣ ΙΩΑΝΝΗΣ ) ( ΟΥΖΕΡΙ - Β+1 Sel.Style )",
+        "area": "ΛΟΥΤΡΑΚΙ",
+        "wine": "Ψηλές Κορφές<br>Golden Samena"
+    }, {
+        "restaurant": "EAGLES PALACE HOTEL & SPA VINUM RESTAURANT",
+        "address": "ΣΚΑΛΑ Ν. ΡΟΔΩΝ",
+        "area": "ΙΕΡΙΣΣΟΣ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "EAGLES PALACE HOTEL & SPA ΚΑΜΑΡΕΣ RESTAURANT",
+        "address": "ΣΚΑΛΑ Ν. ΡΟΔΩΝ",
+        "area": "ΙΕΡΙΣΣΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "EAGLES PALACE HOTEL & SPA ΜΕΛΑΘΡΟΝ RESTAURANT",
+        "address": "ΣΚΑΛΑ Ν. ΡΟΔΩΝ",
+        "area": "ΙΕΡΙΣΣΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "EAGLES PALACE HOTEL & SPA ΑΡΜΥΡΑ RESTAURANT",
+        "address": "ΣΚΑΛΑ Ν. ΡΟΔΩΝ",
+        "area": " ΙΕΡΙΣΣΟΣ",
+        "wine": "Σάμος Doux"
+    }, {
+        "restaurant": "ΑΛΕΞΗΣ",
+        "address": "ΑΚΤΗ ΣΑΝΗ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Golden Samena<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "MILO",
+        "address": "ΒΑΣ.ΒΑΣΙΛΕΙΟΥ 1",
+        "area": "ΣΕΡΡΕΣ",
+        "wine": "Σάμος Doux<br>Golden Samena"
+    }, {
+        "restaurant": "VOX",
+        "address": "ΖΑΧΟΥ- ΝΕΑ ΟΔΟΣ",
+        "area": "ΒΟΛΟΣ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "BANNANAS",
+        "address": "ΑΓΙΑ ΑΝΝΑ",
+        "area": "ΝΑΞΟΣ",
+        "wine": "Σάμος Άνθεμις<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "POTIDEA PALACE CAVA IDEA",
+        "address": "ΑΓ.ΜΑΜΑΣ ΧΑΛΚΙΔΙΚΗΣ",
+        "area": "ΝΕΑ ΜΟΥΔΑΝΙΑ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές<br>Golden Samena<br>Σάμος Άνθεμις<br>Σάμος Νέκταρ<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "JAZI MARE",
+        "address": "ΠΑΡΑΛΙΑ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+        "area": " ΡΙΟ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "LEONE VISTA",
+        "address": "ΑΓ.ΓΕΩΡΓΙΟΥ",
+        "area": "ΩΡΑΙΟΚΑΣΤΡΟ",
+        "wine": "Σάμος Doux<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΑΛΛΟΥ ΓΥΑΛΛΟΥ",
+        "address": "ΚΙΝΙ",
+        "area": "ΣΥΡΟΣ",
+        "wine": "Ψηλές Κορφές<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΡΙΖΕΣ",
+        "address": "ΠΑΡΑΜΑΝΤΡΙΑ",
+        "area": "ΣΕΡΙΦΟΣ",
+        "wine": "Σάμος Doux<br>Ψηλές Κορφές"
+    }, {
+        "restaurant": "RIVERA",
+        "address": "ΚΑΤΩ ΓΑΤΖΕΑ ΒΟΛΟΥ",
+        "area": "ΑΓΡΙΑ",
+        "wine": "Golden Samena<br>Σάμος Άνθεμις"
+    }, {
+        "restaurant": "SUN BEACH",
+        "address": "ΠΑΡΑΛΙΑ ΙΑΛΥΣΟΥ",
+        "area": "ΙΑΛΥΣΟΣ",
+        "wine": "Σάμος Doux<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "MACARONI",
+        "address": "ΑΓΟΡΑ ΜΑΡΙΝΑΣ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Σάμος Άνθεμις"
+    }, {
+        "restaurant": "ΝΤΟΜΑΤΑ",
+        "address": "ΑΓΟΡΑ ΜΑΡΙΝΑΣ",
+        "area": " ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Σάμος Άνθεμις<br>Σάμος Grand Cru"
+    }, {
+        "restaurant": "ΠΕΡΟΚΕ",
+        "address": "ΟΛΥΜΠΙΑΔΑ ΧΑΛΚΙΔΙΚΗΣ",
+        "area": "ΣΤΑΥΡΟΣ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΜΟΥΔΟΥΝΟΥ",
+        "address": "ΑΦΥΤΟΣ",
+        "area": "ΚΑΣΣΑΝΔΡΕΙΑ",
+        "wine": "Ψηλές Κορφές"
+    }, {
+        "restaurant": "ΚΕΛΛΑΡΙ",
+        "address": "ΚΑΝΑΡΗ 6",
+        "area": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+        "wine": "Σάμος Grand Cru"
+    }]
+}
