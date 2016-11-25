@@ -1,4 +1,5 @@
 import {Component, OnInit} from "@angular/core";
+import {Http} from "@angular/http";
 
 @Component({
   selector: 'app-distributors',
@@ -7,10 +8,19 @@ import {Component, OnInit} from "@angular/core";
 })
 export class DistributorsComponent implements OnInit {
 
-  constructor() {
+  public distribute_data;
+
+  constructor(private http: Http) {
   }
 
   ngOnInit() {
+    this.http.get("assets/data/distributors.json")
+      .subscribe((data)=> {
+        this.distribute_data = data.json();
+      });
   }
 
+  ngAfterViewInit() {
+    $('.parallax').parallax();
+  }
 }

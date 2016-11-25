@@ -13,4 +13,8 @@ export class WinesComponent implements OnInit {
   ngOnInit() {
   }
 
+  ngAfterViewInit() {
+    $('.collapsible').collapsible();
+    $('.parallax').parallax();
+  }
 }

@@ -8,6 +8,7 @@ import {NewsComponent} from "./news/news.component";
 import {GalleryComponent} from "./gallery/gallery.component";
 import {WinesComponent} from "./wines/wines.component";
 import {RestaurantComponent} from "./restaurant/restaurant.component";
+import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
 
 // Route Configuration
 export const routes: Routes = [
@@ -21,7 +22,8 @@ export const routes: Routes = [
   {path: 'gallery', component: GalleryComponent},
   {path: 'wines', component: WinesComponent},
   {path: 'restaurant', component: RestaurantComponent},
-  {path: 'award', component: AwardsComponent}
+  {path: 'award', component: AwardsComponent},
+  {path: '**', component: PageNotFoundComponent}
 ];
 
 export const routeModule: ModuleWithProviders = RouterModule.forRoot(routes);

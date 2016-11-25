@@ -15,6 +15,9 @@ import {NewsComponent} from "./news/news.component";
 import {GalleryComponent} from "./gallery/gallery.component";
 import {WinesComponent} from "./wines/wines.component";
 import {RestaurantComponent} from "./restaurant/restaurant.component";
+import {DataTableModule} from "angular2-datatable";
+import {UnionComponent} from "./union/union.component";
+import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
 
 @NgModule({
   declarations: [
@@ -28,14 +31,17 @@ import {RestaurantComponent} from "./restaurant/restaurant.component";
     NewsComponent,
     GalleryComponent,
     WinesComponent,
-    RestaurantComponent
+    RestaurantComponent,
+    UnionComponent,
+    PageNotFoundComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpModule,
     MaterializeModule,
-    routeModule
+    routeModule,
+    DataTableModule
   ],
   providers: [],
   bootstrap: [AppComponent]

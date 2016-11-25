@@ -1,3 +1,66 @@
-<p>
-  distributors works!
-</p>
+<div class="parallax-container">
+  <div class="parallax"><img src="assets/images/network_bg.jpg"></div>
+</div>
+<div class="container">
+  <div class="card-panel">
+    <p class="flow-text">Η διανομή των προϊόντων της Ένωσης Ονοποιητικών Συνεταιρισμών Σάμου στην ελληνική αγορά (εκτός
+      της Σάμου) και στην Κύπρο, γίνεται από τη Β.Σ. ΚΑΡΟΥΛΙΑΣ ΑΒΕΕΠ. Για ηλεκτρονικές παραγγελίες για παράδοση
+      πανελλαδικά, μπορείτε να απευθυνθείτε
+      στα
+      <a href="https://www.edrinks.gr">edrinks</a> και <a href="https://www.cava-drinks.gr">cava-drinks</a>.</p>
+
+    <blockquote>Εδώ θα βρείτε την λίστα με όλα τα εστιατόρια που έχουν τα κρασία μας.
+      <a class="waves-effect waves-light btn" [routerLink]="['/restaurant']"><i class="material-icons left">cloud</i>Εστιατορια</a>
+    </blockquote>
+  </div>
+
+  <div class="card-panel">
+
+    <table class="responsive-table highlight" [mfData]="distribute_data" #mf="mfDataTable" [mfRowsOnPage]="10">
+      <thead>
+      <tr>
+        <th data-field="id">
+          <mfDefaultSorter by="country">Χώρα</mfDefaultSorter>
+        </th>
+        <th data-field="name">
+          <mfDefaultSorter by="company">Εταιρεία</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="address">Διεύθυνση</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="phone">Τηλέφωνο</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="fax">Φαξ</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="email">E-mail</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="person">Αντιπρόσωπος</mfDefaultSorter>
+        </th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <tr *ngFor="let item of mf.data">
+        <td>{{item.country}}</td>
+        <td>{{item.company}}</td>
+        <td>{{item.address}}</td>
+        <td><a href="tel:{{item.phone}}">{{item.phone}}</a></td>
+        <td>{{item.fax}}</td>
+        <td>{{item.email}}</td>
+        <td>{{item.person}}</td>
+      </tr>
+      </tbody>
+      <tfoot>
+      <tr>
+        <td colspan="4">
+          <mfBootstrapPaginator></mfBootstrapPaginator>
+        </td>
+      </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>

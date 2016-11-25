@@ -8,6 +8,11 @@ import {Component, OnInit} from "@angular/core";
 export class GalleryComponent implements OnInit {
 
   ngOnInit() {
+
+  }
+
+  ngAfterViewInit() {
+    $('.materialboxed').materialbox();
   }
 
   constructor() {

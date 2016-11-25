@@ -1,3 +1,117 @@
-<p>
-  restaurant works!
-</p>
+<div class="parallax-container">
+  <div class="parallax"><img src="assets/images/network_bg.jpg"></div>
+</div>
+<div class="container">
+  <div class="card-panel">
+    <blockquote>Η λίστα με όλα τα εστιατόρια από την Αθήνα που έχουν τα κρασία μας.
+    </blockquote>
+    <table class="responsive-table highlight" [mfData]="aData" #athens="mfDataTable"
+           [mfRowsOnPage]="10">
+      <thead>
+      <tr>
+        <th data-field="id">
+          <mfDefaultSorter by="name">Εστιατόριο</mfDefaultSorter>
+        </th>
+        <th data-field="name">
+          <mfDefaultSorter by="address">Διεύθυνση</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="area">Περιοχή</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="wine">Κρασί</mfDefaultSorter>
+        </th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let item of athens.data">
+        <td>{{item.name}}</td>
+        <td>{{item.address | lowercase}}</td>
+        <td>{{item.area | lowercase}}</td>
+        <td>{{item.wine}}</td>
+      </tr>
+      </tbody>
+      <tfoot>
+      <tr>
+        <td colspan="4">
+          <mfBootstrapPaginator></mfBootstrapPaginator>
+        </td>
+      </tr>
+      </tfoot>
+    </table>
+
+    <blockquote>Η λίστα με όλα τα εστιατόρια από την Θεσσαλονίκη που έχουν τα κρασία μας.
+    </blockquote>
+    <table class="responsive-table highlight" [mfData]="tData" #thess="mfDataTable"
+           [mfRowsOnPage]="10">
+      <thead>
+      <tr>
+        <th data-field="id">
+          <mfDefaultSorter by="name">Εστιατόριο</mfDefaultSorter>
+        </th>
+        <th data-field="name">
+          <mfDefaultSorter by="address">Διεύθυνση</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="area">Περιοχή</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="wine">Κρασί</mfDefaultSorter>
+        </th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let item of thess.data">
+        <td>{{item.name}}</td>
+        <td>{{item.address | lowercase}}</td>
+        <td>{{item.area | lowercase}}</td>
+        <td>{{item.wine}}</td>
+      </tr>
+      </tbody>
+      <tfoot>
+      <tr>
+        <td colspan="4">
+          <mfBootstrapPaginator></mfBootstrapPaginator>
+        </td>
+      </tr>
+      </tfoot>
+    </table>
+
+    <blockquote>Η λίστα με όλα τα εστιατόρια από την υπόλοιπη Ελλάδα που έχουν τα κρασία μας.
+    </blockquote>
+    <table class="responsive-table highlight" [mfData]="oData" #other="mfDataTable"
+           [mfRowsOnPage]="10">
+      <thead>
+      <tr>
+        <th data-field="id">
+          <mfDefaultSorter by="name">Εστιατόριο</mfDefaultSorter>
+        </th>
+        <th data-field="name">
+          <mfDefaultSorter by="address">Διεύθυνση</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="area">Περιοχή</mfDefaultSorter>
+        </th>
+        <th data-field="price">
+          <mfDefaultSorter by="wine">Κρασί</mfDefaultSorter>
+        </th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let item of other.data">
+        <td>{{item.name}}</td>
+        <td>{{item.address | lowercase}}</td>
+        <td>{{item.area | lowercase}}</td>
+        <td>{{item.wine}}</td>
+      </tr>
+      </tbody>
+      <tfoot>
+      <tr>
+        <td colspan="4">
+          <mfBootstrapPaginator></mfBootstrapPaginator>
+        </td>
+      </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>

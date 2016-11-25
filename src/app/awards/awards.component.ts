@@ -13,4 +13,8 @@ export class AwardsComponent implements OnInit {
   ngOnInit() {
   }
 
+  ngAfterViewInit() {
+    $('.collapsible').collapsible();
+    $('.parallax').parallax();
+  }
 }
