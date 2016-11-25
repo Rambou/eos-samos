@@ -1,0 +1,43 @@
+<!-- Dropdown Structure -->
+<ul id="about_eos" class="dropdown-content">
+  <li><a [routerLink]="['/']">Αμπελώνες</a></li>
+  <li><a [routerLink]="['/']">Η Ποικιλία</a></li>
+  <li><a [routerLink]="['/']">Οινοποιείο</a></li>
+  <li class="divider"></li>
+  <li><a [routerLink]="['/']">Μουσείο Κρασιού</a></li>
+</ul>
+
+<!-- Navigation Menu -->
+<nav class="light-blue lighten-1" role="navigation">
+  <div class="nav-wrapper"><a id="logo-container" [routerLink]="['/']" class="brand-logo">ΕΟΣ ΣΑΜΟΥ</a>
+    <ul id="menu" class="right hide-on-med-and-down">
+      <li><a [routerLink]="['/']">Συνεταιρισμός</a></li>
+      <li><a class="dropdown-button" data-activates="about_eos">Περι ΕΟΣ<i
+        class="material-icons right">arrow_drop_down</i></a></li>
+      <li><a [routerLink]="['/wines']">Προϊόντα</a></li>
+      <li><a [routerLink]="['/distributor']">Δίκτυο Διανομής</a></li>
+      <li><a [routerLink]="['/award']">Βραβεύσεις</a></li>
+      <li><a [routerLink]="['/news']">Νέα/Ειδήσεις</a></li>
+      <li><a [routerLink]="['/gallery']">Φωτογραφίες</a></li>
+      <li><a [routerLink]="['/contact']">Επικοινωνία</a></li>
+    </ul>
+
+    <ul id="nav-mobile" class="side-nav">
+      <li class="logo">
+        <img src="assets/images/logo.png" alt="some_text">
+      </li>
+      <li><a [routerLink]="['/']">Συνεταιρισμός</a></li>
+      <li><a [routerLink]="['/']">Αμπελώνες</a></li>
+      <li><a [routerLink]="['/']">Η Ποικιλία</a></li>
+      <li><a [routerLink]="['/']">Οινοποιείο</a></li>
+      <li><a [routerLink]="['/']">Μουσείο Κρασιού</a></li>
+      <li><a [routerLink]="['/wines']">Προϊόντα</a></li>
+      <li><a [routerLink]="['/distributor']">Δίκτυο Διανομής</a></li>
+      <li><a [routerLink]="['/award']">Βραβεύσεις</a></li>
+      <li><a [routerLink]="['/news']">Νέα/Ειδήσεις</a></li>
+      <li><a [routerLink]="['/gallery']">Φωτογραφίες</a></li>
+      <li><a [routerLink]="['/contact']">Επικοινωνία</a></li>
+    </ul>
+    <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+  </div>
+</nav>
