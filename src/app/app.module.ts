@@ -18,6 +18,7 @@ import {RestaurantComponent} from "./restaurant/restaurant.component";
 import {DataTableModule} from "angular2-datatable";
 import {UnionComponent} from "./union/union.component";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
+import {PolicyComponent} from "./policy/policy.component";
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
     WinesComponent,
     RestaurantComponent,
     UnionComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    PolicyComponent
   ],
   imports: [
     BrowserModule,

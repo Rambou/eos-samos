@@ -9,6 +9,8 @@ import {GalleryComponent} from "./gallery/gallery.component";
 import {WinesComponent} from "./wines/wines.component";
 import {RestaurantComponent} from "./restaurant/restaurant.component";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
+import {UnionComponent} from "./union/union.component";
+import {PolicyComponent} from "./policy/policy.component";
 
 // Route Configuration
 export const routes: Routes = [
@@ -23,6 +25,8 @@ export const routes: Routes = [
   {path: 'wines', component: WinesComponent},
   {path: 'restaurant', component: RestaurantComponent},
   {path: 'award', component: AwardsComponent},
+  {path: 'union', component: UnionComponent},
+  {path: 'policy', component: PolicyComponent},
   {path: '**', component: PageNotFoundComponent}
 ];
 
