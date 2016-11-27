@@ -1,0 +1,533 @@
+[
+  {
+    "country": "Αγγλία",
+    "company": "Eclectic Wines",
+    "address": "Rinerbank House, One Putney Bridge Approach, London SW6 3JD",
+    "phone": "+44 2031294769",
+    "fax": "+44 2088916591",
+    "email": "eclecticwines@aol.com",
+    "person": "Mrs Mary Pateras"
+  },
+  {
+    "country": "Αυστραλία",
+    "company": "Estate Wine Distributors",
+    "address": "12/5 Clerke Pl, Kurnell NSW 2231, Australia",
+    "phone": "+61 2 9668 9930",
+    "fax": "+612966899301",
+    "email": "joanne@estatewines.com.au",
+    "person": "Ms Joanne Caravella"
+  },
+  {
+    "country": "Αυστρία",
+    "company": "MEDITERRANEA GmbH",
+    "address": "ALBIN EGGER STR.9/4 9900 LIENZ",
+    "phone": "+43485221461",
+    "fax": "+434852214614",
+    "email": "mediterraneagmbh@gmail.com",
+    "person": "Mr Schmidt"
+  },
+  {
+    "country": "Αυστρία",
+    "company": "BURSCHIK",
+    "address": "Zinckgasse 8, 1150 Wien",
+    "phone": "+43 19821225",
+    "fax": "+43 1982122515",
+    "email": "office@\n                            burschik.com",
+    "person": "Mr Specht"
+  },
+  {
+    "country": "Αυστρία",
+    "company": "JOHANNES THURNHER’S NFG-GMBH",
+    "address": "Bockackerstraβe 13, A-6850 Dornbirn",
+    "phone": "+43 5572261510",
+    "fax": "+43 55722615110",
+    "email": "jth@thurnher-wein.com",
+    "person": "Mr Hengl"
+  },
+  {
+    "country": "Αυστρία",
+    "company": "LA MERCANTILE SCARDOVI",
+    "address": "Baumgasse 70, A-1030 Wien",
+    "phone": "+43 15872641",
+    "fax": "+43 1587264119",
+    "email": "pathanasiadis@lamercantile.com",
+    "person": "Mr Athanasiadis"
+  },
+  {
+    "country": "Βέλγιο",
+    "company": "VINOHERCK SA",
+    "address": "Kapucinessenstraat 9, 2000 Antwerp",
+    "phone": "+32 32311098",
+    "fax": "+32 32261022",
+    "email": "eurovino@skynet.be",
+    "person": "Mr Stefaan De Wolf"
+  },
+  {
+    "country": "Βέλγιο",
+    "company": "PEGASOS WINES",
+    "address": "Kleine Hemmenweg 19, 3520 Zonhoven",
+    "phone": "+32 11818464",
+    "fax": "+32 11824424",
+    "email": "pegasos@\n                              telenet.be",
+    "person": "Mr Grousdanakis"
+  },
+  {
+    "country": "Βέλγιο",
+    "company": "VB RECREA",
+    "address": "FRANCHOMMELAAN 154, BUS 9 8370 BLANKENBERGE",
+    "phone": "+306936760833",
+    "fax": "",
+    "email": "thanosxatzin@gmail.com",
+    "person": "Mr Athanasios Chatzinikolaou"
+  },
+  {
+    "country": "Βέλγιο",
+    "company": "CANETTE SA",
+    "address": "Rue de Witte de Haelen 26 1000 Bruxelles",
+    "phone": "+3222231382",
+    "fax": "+3222231845",
+    "email": "ttsanis@canette.be",
+    "person": "Mr Thomas Tsanis"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "EURL KOUTALAKI CONCEPTS",
+    "address": "13, Rue Bouquieres 31000 Toulouse FRANCE",
+    "phone": "+33531479338",
+    "fax": "",
+    "email": "f_concepts@outlook.com",
+    "person": "Ms Athanasiou"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "LE ROYAUME DES GOURMETS",
+    "address": "RUE GENERAL DE REFFYE BP 165 88005 EPINAL CEDEX FRANCE",
+    "phone": "+33329290188",
+    "fax": "",
+    "email": "v.dubas@lrdg.fr",
+    "person": "Mr Dubas"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "CIE FRANCO HELLENIQUE DU SAMOS",
+    "address": "18 Avenue Des Terroirs de France, 75012 Paris",
+    "phone": "+33 146283018",
+    "fax": "+33 143538159",
+    "email": "",
+    "person": "Mrs Bonaventure"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "SARL DIONIS",
+    "address": "32 Place de l’Eglise, F69530 Orlienas",
+    "phone": "+33 472310206",
+    "fax": "+33 472310184",
+    "email": "info-contact@dionis-vins.fr",
+    "person": "Mr Ragot"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "EPSILON DISTRIBUTION SAS",
+    "address": "33 Avenue de Franche Comte, 94150 Rungis M.I.N.",
+    "phone": "+33 143460602",
+    "fax": "+33 143466066",
+    "email": "info@epsilon.tm.fr",
+    "person": "Mr Papakirikos"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "OENOS",
+    "address": "Rue d’Orsel 51 75018 Paris.",
+    "phone": "+330666791840",
+    "fax": "",
+    "email": "Oenos.fpl@free.fr",
+    "person": "Mr Georgios Ioannidis"
+  },
+  {
+    "country": "Γαλλία",
+    "company": "SARL HELIODORE",
+    "address": "Chemin des Bolles 13480 Cabries",
+    "phone": "+33 621488483",
+    "fax": "+33 442290731",
+    "email": "d.nicolaidis@hotmail.fr",
+    "person": "Danielle Nicolaidis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "TASTE GREECE GMBH",
+    "address": "VOLMERSWERTHER STR. 21 40221 DÜSSELDORF",
+    "phone": "+492113021720",
+    "fax": "+492113021721",
+    "email": "info@tastegreece.de",
+    "person": "Mr Pachiadakis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "NC FOOD GMBH",
+    "address": "ZUM FRISCHEMARKT, 1A, 04158 LEIPZIG",
+    "phone": "+49 341 4610790",
+    "fax": "+49 341 46107920",
+    "email": "cinfo@grossmarkt-leipzig.de",
+    "person": "Mr Chrysidis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "WEINHANDLUNG SCHLUCKSPECHT GMBH",
+    "address": "WILHELMSHOEHER ALLEE 118, 34119 KASSEL",
+    "phone": "+49 56112628",
+    "fax": "+49 561 102810",
+    "email": "info@schluckspecht.de",
+    "person": "Mr Kitsu"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "CAVA TZIOLIS",
+    "address": "Schustehrusstr. 20-22, 10585 Berlin",
+    "phone": "+49 303420368",
+    "fax": "+49 3034787092",
+    "email": "cava-tziolis@\n                              symposio.com",
+    "person": "Mr Tziolis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "GEBR.\n                              NIKOLAOUGMBH",
+    "address": "Heesenstrasse 90, 40549 Dusseldorf",
+    "phone": "+49 21195603800",
+    "fax": "+49 2115048258",
+    "email": "info@nikolaou.org",
+    "person": "Mr Kosmas Nikolaou"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "NOTOS WEIN",
+    "address": "Kaulbachstr. 61a, 80539 Munchen",
+    "phone": "+49 89335568",
+    "fax": "+49 8933088328",
+    "email": "zafiriadis@notos-wein.de",
+    "person": "Mr Zafiriadis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "ENEXIA WEIN & MEHR",
+    "address": "Gettrup 1A, D-48308 Senden",
+    "phone": "+49 2597690923",
+    "fax": "+49 2597690925",
+    "email": "team@enexia.de",
+    "person": "Mrs Schaarschmidt"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "ELFO",
+    "address": "Schonebergstr. 29, 52068 Aachen",
+    "phone": "+49 2419609309",
+    "fax": "+49 2419609310",
+    "email": "mail@elfo-ac.de",
+    "person": "Mr Fotiadis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "OINOLOGOS",
+    "address": "Falkenstreinstr. 6, 83126 Flintsbach",
+    "phone": "+49 8034909818",
+    "fax": "+49 8034909819",
+    "email": "info@oinologos.de",
+    "person": "Mr Chatzimilioudis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "STEFANIDIS",
+    "address": "Bielefelderstr.11 33813 Oerlinghausen",
+    "phone": "+49 52029936846",
+    "fax": "+49 52029936849",
+    "email": "info@stefanidis-feinkost.de",
+    "person": "Mr Stefanidis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "MAX PIEHL GmbH & Co. KG",
+    "address": "Hardenstr.51, D-20539, Hamburg",
+    "phone": "+490 407804820",
+    "fax": "+490 40782149",
+    "email": "info@maxpiehl.de",
+    "person": ""
+  },
+  {
+    "country": "Γερμανία",
+    "company": "PIERIA IMPORT EXPORT",
+    "address": "Kennedyallee 34 Frankfurt/Main, 60596",
+    "phone": "+4969 96360808",
+    "fax": "+4969 96312795",
+    "email": "kontakt@parthenon-frankfurt.de",
+    "person": "Mr Kokkinoplitis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "DYO GOURMET",
+    "address": "Zschokkestrasse 57 Munchen, D-80686",
+    "phone": "+49 81665790291",
+    "fax": "+49 81665790292",
+    "email": "info@dyogoumet.de",
+    "person": "Mr Nikolaos Kallis"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "Harald Roehm",
+    "address": "Im Kechler 9/1, 71642 Ludwigsburg",
+    "phone": "+49 7144 8971047",
+    "fax": "+49 7144 8971048",
+    "email": "info@samos-ouzo.com",
+    "person": "Mr Harald Roehm"
+  },
+  {
+    "country": "Γερμανία",
+    "company": "S. TSOTSOGLOU GMBH & CO. KG GMBH",
+    "address": "HEUCHSTETTER WEG 6 89518 HEIDENHEIM GERMAN",
+    "phone": "+49-7321-3459990",
+    "fax": "+49732134599999",
+    "email": "kt@tsotsoglou.de",
+    "person": "Mr Kostas Tsotsoglou"
+  },
+  {
+    "country": "Δανία",
+    "company": "GLUD VIN",
+    "address": "Nikkelvej 1, 8900 Randers",
+    "phone": "+4587100305",
+    "fax": "+4587100393",
+    "email": "Jg@gludvin.dk",
+    "person": "Mr Glud"
+  },
+  {
+    "country": "Ελβετία",
+    "company": "KEEL & CO. AG WEINE",
+    "address": "Konstanzerstrasse 9, 9512 Rossruti/Will 56",
+    "phone": "+41 718864910",
+    "fax": "+41 718864919",
+    "email": "keel.weine@\n                            bluewin.ch",
+    "person": "Mr Bucher"
+  },
+  {
+    "country": "Ελβετία",
+    "company": "SMYRLIADIS CIE IMPORT",
+    "address": "Route de Lausanne 42. CH 1610-Oron la ville",
+    "phone": "+41 219079010",
+    "fax": "+41 219076210",
+    "email": "info@smyrliadis.com",
+    "person": "Mr Smyrliadis"
+  },
+  {
+    "country": "Ελβετία",
+    "company": "PACOR PRODUITS GRECS",
+    "address": "P.O. Box 121, 1723 Marly 2",
+    "phone": "+41 792103992",
+    "fax": "+41 219441949",
+    "email": "pacor.produits.grecs@bluewin.ch",
+    "person": "Mr Corakianitis"
+  },
+  {
+    "country": "Εσθονία",
+    "company": "ITIL TRADING",
+    "address": "Endla 17-1 10122 Tallinn",
+    "phone": "+372 6621215",
+    "fax": "+372 6623397",
+    "email": "damir@itiltrading.com",
+    "person": "Mr Damir Denisov"
+  },
+  {
+    "country": "Ηνωμένες Πολιτείες Αμερικής",
+    "company": "ATHENEE",
+    "address": "21 Evans Ave., Hempstead N.Y. 11550",
+    "phone": "+1 5165054800",
+    "fax": "+1 5165054876",
+    "email": "andrea@\n                            atheneeim\n                            porters.com",
+    "person": "Mrs. Englisis"
+  },
+  {
+    "country": "Ιαπωνία",
+    "company": "WEINHAUS GERHARDT KK",
+    "address": "Hatagaya Plaza Bldg 5F, 1-1-1 Hatagaya, Shibuya-Ku, 151-0072 Tokyo",
+    "phone": "+81 0353886711",
+    "fax": "+81 0333786616",
+    "email": "wineshop@gerhardt.co.jp",
+    "person": "-"
+  },
+  {
+    "country": "Ισπανία",
+    "company": "MON VINIC STORE S.L.U.",
+    "address": "PANAMA 21 08034BARCELONA SPAIN",
+    "phone": "+34 932 726 187",
+    "fax": "7",
+    "email": "dgarcia@monvinicstore.com\n                         info@monvinic.com",
+    "person": "Mr Delia Garcia Rodriguez"
+  },
+  {
+    "country": "Ιταλία",
+    "company": "SARZI AMADE",
+    "address": "Via Oxilia 25/27, 20127 Milano",
+    "phone": "+39 0226113396",
+    "fax": "+39 0226113397",
+    "email": "info@sarziamade.it",
+    "person": "Mr Amade"
+  },
+  {
+    "country": "Ιταλία",
+    "company": "ATHENA",
+    "address": "Via del Lavoro 4/A 40057 Granarolo (BO)",
+    "phone": "+39051768302",
+    "fax": "+39051767958",
+    "email": "antoniobellinetti@yahoo.it",
+    "person": "Mr Antonio Bellinetti"
+  },
+  {
+    "country": "Ιταλία",
+    "company": "ELLENIKA S.R.L.",
+    "address": "Via Panama 52 00198 Roma Italia",
+    "phone": "+39-06-55993002",
+    "fax": "+39-06-5599300",
+    "email": "amministrazione@ellenika.it",
+    "person": "Mr Costas Linardos"
+  },
+  {
+    "country": "Καναδάς",
+    "company": "CANADIAN SHIPPING & TRADING",
+    "address": "26 Viney Str, Kirkland, Quebec",
+    "phone": "+1 5146307376",
+    "fax": "+1 5146309428",
+    "email": "artemisamos@yahoo.ca",
+    "person": "Mrs Anastasiadis"
+  },
+  {
+    "country": "Κίνα",
+    "company": "Greek Agricultural Products Asian Promotion Center",
+    "address": "1814,R&F Stanley International Apartment,3 Huaqiang Road, Zhujiang New Town, Guangzhou, China",
+    "phone": "+86 2085503799\n                        +86 13829757350",
+    "fax": "+86 2038013783",
+    "email": "sofia@greekwines.cn",
+    "person": "Mrs Sofia Wang"
+  },
+  {
+    "country": "Κύπρος",
+    "company": "ACM CHRISTOFIDES LTD",
+    "address": "6 25th March – Latsia, Nicosia",
+    "phone": "+357 22679000",
+    "fax": "",
+    "email": "ctheodoulou@acm.com.cy",
+    "person": "Mr Konstantinos Theodoulou"
+  },
+  {
+    "country": "Ολλανδία",
+    "company": "ICHOS HOLDING BV",
+    "address": "BESTERDRING 2A, 5014HL, TILBURG",
+    "phone": "+31 30 2935041",
+    "fax": "",
+    "email": "info@hetgrieksehuis.nl",
+    "person": "Mr Kostas iossifidis"
+  },
+  {
+    "country": "Ολλανδία",
+    "company": "ARIDJIS B.V.",
+    "address": "Arkansasdreef 28, 3565 AR Utrecht, Postbus 5041, 3502 JA Utrecht",
+    "phone": "+31 302935041",
+    "fax": "+31 302944138",
+    "email": "theologos@\n                            aridjis.com",
+    "person": "Mr Aridjis"
+  },
+  {
+    "country": "Ουγγαρία",
+    "company": "SYRTOS KFT",
+    "address": "BELGRAD RKP 16,1056 BUDAPEST HUNGARY",
+    "phone": "+36 30 200-4171",
+    "fax": "+36 1 267-4031",
+    "email": "syrtos@dionysos.hu",
+    "person": "Mr Andreas Lehoudis"
+  },
+  {
+    "country": "Πολωνία",
+    "company": "Folwark Boleslawow.",
+    "address": "92-632 Lodz, Ul. Wiencowa 5, Poland",
+    "phone": "+48 42 648 82 47",
+    "fax": "+48 42 648 87 17",
+    "email": "folwark@folwark.pl",
+    "person": "Mr Piotr Rybicki"
+  },
+  {
+    "country": "Ρουμανία",
+    "company": "SC GREKA TERRA IMPORT-EXPORT SRL.",
+    "address": "BD. GEORGE COSBUC NR. 42-44, ET.1, CAM.1 BUCURESTI, SECTOR 5 050142 ROMANIA",
+    "phone": "+4021.410.12.11",
+    "fax": "+4 021.410.20.36",
+    "email": "Vasilis.Ioannou@sysware.ro",
+    "person": "Mr Vassilis Ioannou"
+  },
+  {
+    "country": "Σερβία",
+    "company": "SIGMA OLIWINE DOO",
+    "address": "KORNATSKA 47M BEOGRAD SERBIA",
+    "phone": "",
+    "fax": "",
+    "email": "domazetovic.sigma@gmail.com",
+    "person": "Mr Domazetovic"
+  },
+  {
+    "country": "Σιγκαπούρη",
+    "company": "WINE CAVIAR.",
+    "address": "Maxwell Road # 03-05 Red Dot Building 069120 Singapore",
+    "phone": "+65 96895268",
+    "fax": "",
+    "email": "Kevin@WineCaviar.com",
+    "person": "Mr Kevin Yeow"
+  },
+  {
+    "country": "Σουηδία",
+    "company": "OENOFOROS",
+    "address": "Karlavagen 108, 8 tr., 115 26, Stockholm",
+    "phone": "+46 86510995",
+    "fax": "+46 86510996",
+    "email": "info@oenoforos.se",
+    "person": "Mr Soldatos"
+  },
+  {
+    "country": "Τσεχία",
+    "company": "VO-KARBULA",
+    "address": "Pod Vinohrady 1231, 69681, Bzenec, Czech",
+    "phone": "+42 518387343",
+    "fax": "+42 518387345",
+    "email": "VO.Karbula@seznam.cz",
+    "person": "Mr Karbula"
+  },
+  {
+    "country": "Τσεχία",
+    "company": "POSAM PRAHA S.R.O.",
+    "address": "Holeckova103/31, 15000 Praha 5",
+    "phone": "+42 257312091\n                        +42 602224989\n                        +42 257314096",
+    "fax": "+42 518387345",
+    "email": "skneppova@\n                              adamstudio.cz",
+    "person": "Mrs Kneppova Vieroslava"
+  },
+  {
+    "country": "Τσεχία",
+    "company": "DANIELLA MELIOSOVA-HERME.",
+    "address": "Jeznik 2173/9 POD Bezrucovym Vrchem 794 01 Krnov 1 Czech Republic",
+    "phone": "+420 777 212 143",
+    "fax": "+420 554 611 717",
+    "email": "hermes.krnov@iol.cz",
+    "person": "Mr Thomas Melios"
+  },
+  {
+    "country": "Φινλανδία",
+    "company": "VAL WINE AGENTS",
+    "address": "Kristiinankatu 9, 3 KRS, 20100 Turku",
+    "phone": "+35 8 505 121462",
+    "fax": "+35 822423439",
+    "email": "andreas.lampi@vinagenten.com",
+    "person": "Mr Lampi"
+  },
+  {
+    "country": "Χόνγκ Κόνγκ",
+    "company": "Greek Agricultural Products Asian Promotion Centeg",
+    "address": "",
+    "phone": "+852 903747521",
+    "fax": "",
+    "email": "gary@greekwines.cn",
+    "person": "Mr Gary Lam"
+  }
+]
