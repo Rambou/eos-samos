@@ -11,3 +11,7 @@ body > .inner {
 body.pg-loaded > .inner {
   display: block;
 }
+
+.sk-wave .sk-rect {
+  background-color: #dacece;
+}
