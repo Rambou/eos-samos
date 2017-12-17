@@ -1,0 +1,8 @@
+eos-samos:
+  build: .
+  container_name: eos-samos
+  environment:
+    - VIRTUAL_HOST=eos.rambou.gr
+    - LETSENCRYPT_HOST=eos.rambou.gr
+    - LETSENCRYPT_EMAIL=admin@rambou.gr
+  restart: unless-stopped
