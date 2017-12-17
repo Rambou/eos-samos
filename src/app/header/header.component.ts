@@ -1,4 +1,4 @@
-import {Component, OnInit} from "@angular/core";
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-header',
@@ -11,6 +11,10 @@ export class HeaderComponent implements OnInit {
   }
 
   ngOnInit() {
+    const rootVar = window['loading_screen'];
+    rootVar.finishing = true;
+    /*const pleaseWait = window['pleaseWait'];
+    pleaseWait.finish();*/
   }
 
 }
