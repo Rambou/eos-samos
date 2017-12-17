@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 @import "../node_modules/materialize-css/dist/css/materialize.css";
+@import "../node_modules/spinkit/css/spinners/1-rotating-plane.css";
+@import "../node_modules/spinkit/css/spinners/3-wave.css";
+@import "../node_modules/spinkit/css/spinkit.css";
 
 body > .inner {
   display: none;
